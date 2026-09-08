@@ -62,5 +62,3 @@ He also called on European regulators to “finish the job.”
 “The Google ad tech case presents the opportunity to go beyond fines and set a global precedent for meaningful antitrust enforcement and competition,” he wrote.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. An individual from The Trade Desk was among the people included on the trial witness list.*

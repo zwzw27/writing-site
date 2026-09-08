@@ -66,5 +66,3 @@ Ultimately, as the pool of retail data that European marketers can choose from g
 “Two things will factor into who will raise above the pack: reach and impact,” says Sadeh. “The more data and information you have, the more placements, opportunities and audiences you reach, the broader this one remaining source of data can have an impact.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

@@ -50,5 +50,3 @@ The company used consented data from its CDP, obtained from users registering th
 “Unified customer profiles will also be a useful tool to leverage,” says Thanki. “This provides a more holistic view of the customer journey and can help in attributing sales across different channels.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

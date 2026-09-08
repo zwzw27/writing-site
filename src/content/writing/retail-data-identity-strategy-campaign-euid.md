@@ -60,5 +60,3 @@ It all adds up to an opportunity to reset the data relationships that advertiser
 “Our research does show that when we are explaining it, and consumers have a better understanding of ‘I get personalized ads, more relevant content, free premium shows on this platform I love,’ they’re okay with [sharing data],” said McGrogan.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

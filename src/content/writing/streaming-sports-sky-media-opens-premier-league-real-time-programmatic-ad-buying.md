@@ -54,5 +54,3 @@ Programmatic buying on Sky’s drama, comedy, and entertainment content is plann
 Brands will also benefit from the built-in brand safety that premium streaming TV offers, says Cohen. “We want brands to be in a quality environment. That way you can guarantee that you're getting the best possible impact from advertising,”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

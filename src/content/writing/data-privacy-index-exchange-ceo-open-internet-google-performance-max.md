@@ -46,5 +46,3 @@ Initiatives like The Trade Desk’s Sellers and Publishers 500+ can also help ma
 “Having this awareness of the supply chain, understanding and valuing a publisher’s environment and the context in which ad opportunities exist” is only possible on the open internet, said O’Sullivan. “There are still ads on the walled gardens. You just know nothing about this.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk. This information is provided solely for background and is not a representation or guarantee of any future performance.*

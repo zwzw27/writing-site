@@ -64,5 +64,3 @@ For now, it is already becoming clear how AI will reshape advertising: by helpin
 “People often say that data is the new oil. It’s not — we’re drowning in oil, there is oil everywhere. Data is not the rare asset here,” said Galloway. “What is the rare asset is what to do with all this data.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

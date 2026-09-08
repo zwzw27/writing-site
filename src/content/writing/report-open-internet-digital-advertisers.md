@@ -64,5 +64,3 @@ The report makes the case that with fast-growing channels such as CTV and digita
 “The changing privacy and addressability landscape has forced everyone in the industry to look at the open internet with a fresh set of eyes,” says Ryan Lammela, group director of channel activation at Butler/Till. “That has reminded all of us that this huge swath of inventory can be used in all kinds of ways.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

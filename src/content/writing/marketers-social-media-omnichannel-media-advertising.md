@@ -64,5 +64,3 @@ Beyond social media, Fabian Kietzmann, chief products and services officer at Gr
 “We’d recommend focusing on the business challenge first,” adds Assembly’s Dalvi. “The dynamics of how individuals engage in the journey are evolving, and ultimately, you need to be where your audience is most active.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

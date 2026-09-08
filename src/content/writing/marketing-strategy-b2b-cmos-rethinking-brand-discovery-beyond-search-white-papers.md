@@ -48,5 +48,3 @@ But not everyone has. One conference attendee, The Current spoke to at MWC, who 
 In fact, for all of MWC’s undeniable buzz, today’s B2B buyer is just as likely to be reached scrolling on their sofa as walking an exhibition floor.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

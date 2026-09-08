@@ -62,5 +62,3 @@ We will be looking at ways to evolve this model to other sports content and othe
 Omnicom is already working with major streaming platforms and broadcasters across different markets and recently also announced integrations with The Trade Desk and Disney+.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

@@ -56,5 +56,3 @@ The identity revolution could be a generational opportunity to realign publisher
 “We encourage advertisers to engage in testing these new solutions with publishers and their platform partners while third-party cookies are still in use,” says Qureshi. “This is a critical learning opportunity, and time is of the essence.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

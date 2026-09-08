@@ -34,5 +34,3 @@ Reducing ad clutter and excising programmatic intermediaries align with The Guar
 “OpenPath is a direct integration with The Trade Desk and removes middlemen. Removing these intermediaries cleans up our supply path. Ads don’t have to go through SSPs, which reduces our carbon footprint.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk. This information is provided solely for background and is not a representation or guarantee of any future performance.*

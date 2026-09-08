@@ -52,5 +52,3 @@ For example, Universal Media worked with a grocer to improve their lookalike aud
 “Brands looking to expand audiences should turn to leveraging UID2 for assured audience growth, which showcases the seamless integration of retail and audience data,” says Cook. “By leveraging cookieless IDs, advertisers can craft strategies that are both data-driven and privacy-conscious, enhancing the accuracy and scalability of their efforts.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

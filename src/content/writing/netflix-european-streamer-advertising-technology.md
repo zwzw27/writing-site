@@ -34,5 +34,3 @@ The UK’s Channel 4 will [simplify and relaunch](https://uk.themedialeader.com/
 Europe’s TV players may have lost ground when the streaming wars were all about content. But they are now co-writing the next chapter with the streaming giants, one where ad tech will be part of the main cast.
 
 ---
-
-*The Current is owned and operated by The Trade Desk.*

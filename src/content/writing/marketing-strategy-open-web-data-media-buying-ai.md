@@ -52,5 +52,3 @@ Hilton envisions future capabilities such as data-driven budget allocation acros
 “These advancements will enable traders and strategists to make smarter, faster decisions, reduce guesswork in the planning phase and create media plans that are both more efficient and more scalable.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

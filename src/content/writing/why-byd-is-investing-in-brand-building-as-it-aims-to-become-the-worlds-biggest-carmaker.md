@@ -3,6 +3,7 @@ title: "Why BYD is investing in brand building as it aims to become the world’
 date: 2026-06-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/video/why-byd-is-investing-in-brand-building-as-it-aims-to-become-the-worlds-biggest-carmaker"
+videoUrl: "https://player.vimeo.com/video/1201908242?dnt=1"
 type: "feature"
 featured: false
 ---

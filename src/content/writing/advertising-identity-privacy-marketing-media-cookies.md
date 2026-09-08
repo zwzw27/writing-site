@@ -42,5 +42,3 @@ Georgina Bankier, head of global platform partnerships at Eyeota, said that the 
 Digital out-of-home (DOOH), instead, allows for relevance despite the channel’s inability to target at the individual or household level. “DOOH is quite interesting for us, especially for retargeting, because it’s one of the few examples of being able to personalize ad targeting without actually targeting an individual,” said Bankier. Adding data from geolocation partners can help advertisers understand how often someone is passing through a specific place and even whether a certain location has a higher proportion of users who may purchase an expensive camera, for example. “It can be that niche,” Bankier said.
 
 Diversifying ad investments across multiple channels could prove fruitful for advertisers in the long run. “We need to invest in those other areas. Because all the money going into these walled gardens isn’t good. We need a healthy media ecosystem that is a great consumer experience,” said Hagen.
-
-*The Current is owned and operated by The Trade Desk, Inc.*

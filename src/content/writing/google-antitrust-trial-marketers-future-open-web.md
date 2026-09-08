@@ -52,7 +52,3 @@ But the very fact that regulators feel it is necessary to be involved underscore
 “How do we properly address privacy, and where there’s market failure as perceived by some participants, how do we actually fix the market failure without […] degrading interoperability?” added Rosewell.
 
 He noted this may create “huge opportunity to innovate,” which should drive down costs and increase efficiencies. “Independent ad tech has to be able to do that,” he said.
-
----
-
-The Current is owned and operated by The Trade Desk Inc. An individual from *The Trade Desk is among the 68 people included on the trial witness list.*

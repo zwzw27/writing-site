@@ -39,8 +39,9 @@ assert.equal(articleFiles.length, dates.length, 'Every source article must appea
 const seenTitles = new Set();
 const seenUrls = new Set();
 const seenBodies = new Set();
-const furniture = /^(?:#{1,6}\s+)?(?:subscribe(?: to (?:our email newsletter|the current))?|related stor(?:y|ies)|read more:?|daily debrief\s+newsletter|coingecko|more\s+bitcoin news and projections\s*→|gain free and exclusive access to:.*)$/im;
-const privateData = /(?:Claude-Session:|\/Users\/|github_pat_[A-Za-z0-9_]+|ghp_[A-Za-z0-9]+|-----BEGIN .*PRIVATE KEY-----)/i;
+const paragraphOwners = new Map();
+const furniture = /^(?:#{1,6}\s+)?(?:subscribe(?: to (?:our email newsletter|the current))?|related stor(?:y|ies)|read more:?|daily debrief\s+newsletter|coingecko|more\s+bitcoin news and projections\s*→|gain free and exclusive access to:.*|\*?the current is owned and operated by the trade desk.*)$/im;
+const privateData = /(?:Claude-Session:|\/Users\/|github_pat_[A-Za-z0-9_]+|gh[pousr]_[A-Za-z0-9_]+|AKIA[0-9A-Z]{16}|-----BEGIN .*PRIVATE KEY-----)/i;
 const email = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i;
 for (const file of articleFiles) {
   const source = await readFile(file, 'utf8');
@@ -50,9 +51,11 @@ for (const file of articleFiles) {
   const title = frontmatter.match(/^title:\s*(.+)$/m)?.[1];
   const url = frontmatter.match(/^originalUrl:\s*(.+)$/m)?.[1];
   const type = frontmatter.match(/^type:\s*"(analysis|feature|news)"$/m)?.[1];
+  const videoUrl = frontmatter.match(/^videoUrl:\s*"([^"]+)"$/m)?.[1];
   assert(title && !seenTitles.has(title), `Missing or duplicate title: ${file}`);
   assert(url && !seenUrls.has(url), `Missing or duplicate original URL: ${file}`);
   assert(type, `Missing or invalid writing type: ${file}`);
+  if (videoUrl) assert(/^https:\/\/player\.vimeo\.com\/video\/\d+\?dnt=1$/.test(videoUrl), `Invalid or non-private Vimeo embed: ${file}`);
   seenTitles.add(title);
   seenUrls.add(url);
   const bodyHash = createHash('sha256').update(body.trim()).digest('hex');
@@ -62,5 +65,12 @@ for (const file of articleFiles) {
   assert(!furniture.test(body), `Publisher page furniture found: ${file}`);
   assert(!privateData.test(source), `Private data or credential marker found: ${file}`);
   assert(!email.test(source), `Email address found in article: ${file}`);
+  for (const paragraph of body.split(/\n\s*\n/)) {
+    const normalized = paragraph.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\s+/g, ' ').trim().toLowerCase();
+    if (normalized.length < 120) continue;
+    const previous = paragraphOwners.get(normalized);
+    assert(!previous, `Repeated long paragraph across articles: ${previous} and ${file}`);
+    paragraphOwners.set(normalized, file);
+  }
 }
 console.log(`Verified ${pages.length} pages and ${articleFiles.length} unique articles: local links, repository prefix, selected count, archive order, content hygiene, and one archive filter script.`);

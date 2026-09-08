@@ -56,5 +56,3 @@ Gillian White, chief revenue officer at Capital B News — a Black-led nonprofit
 “When Capital B is able to cover unique stories that are being left untold and provide information that our audience actually needs, we see the affirmation of that work via our traffic and often are able to drive impact, and revenue, as a result,” says White.
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

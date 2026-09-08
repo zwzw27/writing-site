@@ -42,5 +42,3 @@ Beauty retail data often challenges assumptions about which channels are truly d
 Having access to purchase‑level signals allows brands to move beyond proxy metrics and make more confident, evidence‑based decisions about where to invest and where not to.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

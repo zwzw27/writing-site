@@ -66,5 +66,3 @@ For marketers intent on reaching one of the world’s most significant consumer 
 “China offers unparalleled opportunities for data-driven marketing. And China is at the forefront of innovative ad formats, particularly in areas like livestreaming and interactive ads,” says Bhatt. “Programmatic platforms in China often support these advanced formats, offering unique opportunities to engage audiences in new ways.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

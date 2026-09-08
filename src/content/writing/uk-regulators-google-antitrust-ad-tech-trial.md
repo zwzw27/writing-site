@@ -30,5 +30,3 @@ European regulators, meanwhile, are busy [investigating](https://ec.europa.eu/co
 Separately, a U.S. federal judge ruled earlier this year that Google [illegally maintained](https://www.thecurrent.com/marketing/google-antitrust-federal-judge-monopoly-search-advertising) a monopoly in its search business.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. An individual from The Trade Desk is among the 68 people included on the trial witness list.*

@@ -38,5 +38,3 @@ Some are already noticing improvements in their bottom lines. BCN Group’s Qure
 Adopting EUID can also help lessen publishers’ reliance on Google for traffic and revenue, says Atresmedia’s Amate. “We all need that to happen, as we should all move into a more objective path to be less dependent from the walled gardens and continue working toward having an open internet.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

@@ -30,5 +30,3 @@ That said, French supporters may not have to worry about this doomsday scenario,
 But for global brands, the broader takeaway is clear: football remains one of the few cultural events capable of uniting mass European audiences across borders, demographics and viewing habits.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

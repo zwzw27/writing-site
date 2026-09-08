@@ -58,5 +58,3 @@ Cookie deprecation is a global reality. European marketers will have the added t
 “At first glance, it may appear as if consumers are the only beneficiaries of more stringent regulations,” says Roche. “But a rising tide lifts all ships. Regulations hold the entire ecosystem to a higher standard, including Big Tech.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk, Inc.*

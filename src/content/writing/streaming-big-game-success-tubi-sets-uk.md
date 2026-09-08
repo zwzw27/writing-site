@@ -36,5 +36,3 @@ But in a diverse country like the U.K., Tubi’s focus on catering to what it de
 “We’ll serve you things you like and love,” Appleton said. “We’re not trying to move and push and create culture, we reflect it.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk.*

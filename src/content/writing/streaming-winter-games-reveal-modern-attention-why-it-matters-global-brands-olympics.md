@@ -40,5 +40,3 @@ The survey data confirms an ongoing shift in audiences’ media consumption habi
 “The importance of three-dimensional experiences for brands is critical,” he added, highlighting that success is increasingly defined by a combination of factors rather than any single metric.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

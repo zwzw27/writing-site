@@ -39,7 +39,7 @@ Then open the preview address with `/writing-portfolio/` appended.
 
 ## Connect and deploy to GitHub Pages
 
-1. Create an empty **public** repository on GitHub, for example `writing-portfolio`. Do not initialise it with a README, licence, or gitignore. Use `YOUR-USERNAME.github.io` as the repository name if you want the site at your account's root address instead.
+1. Create an empty repository on GitHub, for example `writing-portfolio`. A public repository works with GitHub Pages on the free plan. A private source repository requires a GitHub plan that supports Pages from private repositories. Use `YOUR-USERNAME.github.io` as the repository name if you want the site at your account's root address instead.
 2. Open a terminal **inside this project folder** (the folder containing `package.json`) and run the following, replacing YOUR-USERNAME and YOUR-REPOSITORY:
 
 ```sh
@@ -60,8 +60,8 @@ Keep the `.github` folder in the repository; it contains the deployment workflow
 
 ## Add an article later
 
-This repository and every published article are public. Keep private notes, spreadsheets,
-credentials, and personal contact details outside it. In GitHub email settings, keep
+Every deployed article is public. This source repository can remain private with a GitHub plan that supports Pages from private repositories; otherwise it must be made public to use Pages. Keep private notes, spreadsheets,
+credentials, and personal contact details outside the repository. In GitHub email settings, keep
 email privacy enabled. Local commits must use your GitHub noreply email address;
 check this before your first commit on another computer.
 

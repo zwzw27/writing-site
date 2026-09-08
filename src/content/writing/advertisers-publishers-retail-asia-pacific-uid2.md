@@ -76,5 +76,3 @@ FairPrice built one set of audiences by relying on device IDs and mobile ad IDs,
 “This compelling evidence established that UID2 is an innovative pathway to connect with our target audiences across the open internet without relying on third-party cookies,” Iris Paulase, performance marketing lead at FairPrice, told *The Current*.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. UID2 was developed by The Trade Desk, Inc.*

@@ -56,5 +56,3 @@ He points to Deezer’s EUID-enabled inventory, which he said generated 35% more
 “The objective is not to force audio into a last-click model. It is not simply competing for a larger share of existing audio budgets, it is expanding the objectives, and therefore the budgets, for which audio can be considered,” he said.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. EUID was developed by The Trade Desk.*

@@ -98,5 +98,3 @@ Why that comment matters: The company still gets lots of viewers from linear TV 
 But Fox One is squarely aimed at “cord-cutters and cord-nevers alike,” and will feature “advanced personalization technology” (read: a content recommendation engine) as well as live and video on-demand content.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

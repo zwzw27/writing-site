@@ -35,11 +35,6 @@ Across all stages, the biggest overall benefit of LLMs in CTV is “workflow eff
 
 Newer models, such as GPT-5.1, are also improving the quality of insights. “The integration of third-party research sources like GWI, combined with stronger reasoning and conversational memory, makes the tool feel more collaborative and less transactional,” Burchill said.
 
-
-And a new proposal, the “digital omnibus,” introduced in November, aims to make it easier for AI companies to train their models on Europeans’ data while also simplifying the EU’s notorious cookie banner. Companies may benefit from the clarity around how personal data may be used to train AI models and cookie consent banner requirements.
-
-While it still needs approval by the European Parliament, the message is clear: Regulators, not Big Tech, are shaping advertising in Europe.
-
 ## What lies ahead
 
 Looking ahead to 2026, Tong believes agentic AI will unlock concrete operational efficiencies across the CTV ad buying ecosystem.

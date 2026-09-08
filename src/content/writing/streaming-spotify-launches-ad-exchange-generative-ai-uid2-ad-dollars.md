@@ -44,5 +44,3 @@ Even putting the flexibility of formats aside, reaching elusive Gen Zers is wher
 “Over 75% of Gen Z has said that they feel mentally happy when they are using Spotify and they use it as an escape from doomscrolling,” Vaughn says. “That’s something that I think is a powerful differentiator for us from other platforms. It creates an impactful and safe environment for advertisers.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc. This information is provided solely for background and is not a representation or guarantee of any future performance.*

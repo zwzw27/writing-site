@@ -50,5 +50,3 @@ As retailers benefit from being more competitive, so can advertisers, thanks to 
 “For the manufacturer or the brand, being able to put themselves higher up in front of a consumer is going to drive more sales and ultimately better performance. So, it's a win-win situation,” said Adams.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

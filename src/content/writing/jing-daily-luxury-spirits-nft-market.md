@@ -53,7 +53,7 @@ Luxury spirits are often seen as the preserve of older, more affluent collectors
 
 The Japanese distiller made available on BlockBar just one of 211 remaining 50-year old bottles from its shuttered distillery, which has become somewhat of a cult product among aficionados. It sold for approximately 79,000.
 
-Luxury wine and spirits NFTs also might start to look particularly appealing as stocks and crypto tokens drop in value amid a looming worldwide recession. The Liv-ex Fine Wine 1000 investment benchmark, for example, has outperformed the Samp;P 500 index of the biggest U.S. companies so far this year.
+Luxury wine and spirits NFTs also might start to look particularly appealing as stocks and crypto tokens drop in value amid a looming worldwide recession. The Liv-ex Fine Wine 1000 investment benchmark, for example, has outperformed the S&P 500 index of the biggest U.S. companies so far this year.
 
 But buying whole bottles isn’t the only way to invest in fine spirits. Savvy young collectors, who might be familiar with fractionalized stocks introduced by digital brokers like Robinhood, have also been enticed by fractional ownership of casks through services like BlockBar and Metacask. The latter was behind the record-breaking 2.3 million (16.7 million RMB) sale of a rare 1991 Macallan cask last October.
 

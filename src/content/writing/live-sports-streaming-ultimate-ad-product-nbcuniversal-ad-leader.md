@@ -51,5 +51,3 @@ In 2026:
 Highlighting the intense pace of work the company is preparing, Levin quipped, “I’ll sleep in 2027.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk.*

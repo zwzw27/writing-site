@@ -94,5 +94,3 @@ An alternative: When the stars align between a media vehicle and an audience, we
 Think Dave Portnoy’s Barstool and High Noon as an example where a brand has gone “all in” with a partner and generated great results.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

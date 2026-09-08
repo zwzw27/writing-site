@@ -60,5 +60,3 @@ These platforms’ grip on the infrastructure powering CTV is something that Hen
 “This simply doesn’t work today with the revenue shares which are applied on the app stores for us,” Rippl echoed. “If you have an amazing show that came out of nowhere, that should get as much play as a really big Netflix show. So, we won’t do pay to play. We won’t have our own service that we’re trying to put first, and that way, hopefully everyone can compete,” Henick said.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

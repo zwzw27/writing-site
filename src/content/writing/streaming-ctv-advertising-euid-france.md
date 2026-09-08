@@ -46,5 +46,3 @@ For publishers, the potential benefit of adopting alternative identifiers is cle
 As European law makers enact [new privacy legislation](https://www.thecurrent.com/marketing/europe-data-legislation-marketers-privacy), more and more broadcasters and publishers are likely to turn to alternative identity solutions that deliver privacy-conscious targeting for a cookieless reality.
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*

@@ -106,5 +106,3 @@ Looking beyond Europe’s shores could also pay dividends, though Nordic streame
 “Some excellent shows and films get made in our corner of the world, but to truly thrive, this magic has to reach across continents.”
 
 ---
-
-*The Current is owned and operated by The Trade Desk Inc.*
