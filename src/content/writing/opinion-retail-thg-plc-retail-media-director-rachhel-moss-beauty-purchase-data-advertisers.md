@@ -3,6 +3,7 @@ title: "THG PLC’s retail media director on what beauty purchase data tells adv
 date: 2026-02-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/opinion-retail-thg-plc-retail-media-director-rachhel-moss-beauty-purchase-data-advertisers"
+type: "analysis"
 featured: false
 ---
 

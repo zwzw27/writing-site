@@ -3,6 +3,7 @@ title: "Programmatic Pioneers 2025: Sorrell, industry leaders predict AI-led sha
 date: 2025-06-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/culture-programmatic-pioneers-2025-sorrell-industry-leaders-predict-media-buying-ai"
+type: "analysis"
 featured: false
 ---
 

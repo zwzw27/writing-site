@@ -3,6 +3,7 @@ title: "European retail brands pivot messaging, lean on retail media amid inflat
 date: 2023-05-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/european-retail-brands-media-tech"
+type: "analysis"
 featured: false
 ---
 

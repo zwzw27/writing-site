@@ -3,6 +3,7 @@ title: "British broadcasters relaunch, rebrand and revamp to vie for ad budgets"
 date: 2025-03-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-british-broadcasters-relaunch-rebrand-ad-budgets-bbc-netflix-tv"
+type: "analysis"
 featured: false
 ---
 

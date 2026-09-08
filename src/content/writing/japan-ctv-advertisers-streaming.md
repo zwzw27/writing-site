@@ -3,6 +3,7 @@ title: "Japan’s end of negative interest rates could be CTV advertisers’ gol
 date: 2024-05-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/japan-ctv-advertisers-streaming"
+type: "analysis"
 featured: false
 ---
 

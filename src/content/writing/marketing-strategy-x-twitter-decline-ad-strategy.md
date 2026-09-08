@@ -3,6 +3,7 @@ title: "What X’s decline really says about ad strategy"
 date: 2025-07-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-x-twitter-decline-ad-strategy"
+type: "analysis"
 featured: false
 ---
 

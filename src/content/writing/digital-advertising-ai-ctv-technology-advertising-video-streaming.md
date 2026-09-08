@@ -3,6 +3,7 @@ title: "AI, CTV and FAST: A new era of digital advertising takes shape at DMEXCO
 date: 2023-09-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/digital-advertising-ai-ctv-technology-advertising-video-streaming"
+type: "analysis"
 featured: false
 ---
 

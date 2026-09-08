@@ -3,6 +3,7 @@ title: "Social platforms are testing ad-free subscription plans. What does that 
 date: 2023-11-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/advertising-social-media-meta-instagram-tech-data"
+type: "feature"
 featured: false
 ---
 

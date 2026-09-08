@@ -3,6 +3,7 @@ title: "How programmatic traders are leaning on first-party data, retail media t
 date: 2023-05-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/programmatic-data-retail-media-bid-factor-awards"
+type: "feature"
 featured: false
 ---
 

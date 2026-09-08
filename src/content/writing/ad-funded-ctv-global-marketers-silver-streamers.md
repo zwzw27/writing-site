@@ -3,6 +3,7 @@ title: "As ad-funded CTV goes global, marketers should consider ‘silver stream
 date: 2023-03-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/ad-funded-ctv-global-marketers-silver-streamers"
+type: "analysis"
 featured: false
 ---
 

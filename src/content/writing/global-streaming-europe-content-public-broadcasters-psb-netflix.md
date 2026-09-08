@@ -3,6 +3,7 @@ title: "Amid a global streaming slowdown, Europe’s content machine revs into h
 date: 2023-08-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/global-streaming-europe-content-public-broadcasters-psb-netflix"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "5 Minutes with retail media powerhouse SMG’s Helen Johnson"
 date: 2024-06-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/helen-johnson-smg-opinion-advertising"
+type: "analysis"
 featured: false
 ---
 

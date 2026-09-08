@@ -3,6 +3,7 @@ title: "Decoding Saudi Arabia’s Gen Z, a generation on the ascent"
 date: 2024-08-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/ctv-media-saudi-arabia-genz-generation-advertising"
+type: "feature"
 featured: false
 ---
 

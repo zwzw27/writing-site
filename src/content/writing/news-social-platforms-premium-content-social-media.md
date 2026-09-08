@@ -3,6 +3,7 @@ title: "News’ old guard calls for reinvention amid ‘existential’ threat fr
 date: 2024-11-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/news-social-platforms-premium-content-social-media"
+type: "analysis"
 featured: false
 ---
 

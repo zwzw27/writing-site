@@ -3,6 +3,7 @@ title: "How to find the ‘gold dust’ in your identity strategy"
 date: 2024-05-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/retail-data-identity-strategy-campaign-euid"
+type: "feature"
 featured: false
 ---
 

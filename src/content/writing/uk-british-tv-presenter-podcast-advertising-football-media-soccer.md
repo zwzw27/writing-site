@@ -3,6 +3,7 @@ title: "As British TV presenters move to podcasts, will ad dollars follow?"
 date: 2023-09-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/uk-british-tv-presenter-podcast-advertising-football-media-soccer"
+type: "feature"
 featured: false
 ---
 

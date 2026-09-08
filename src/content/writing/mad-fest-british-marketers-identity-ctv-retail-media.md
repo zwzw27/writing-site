@@ -3,6 +3,7 @@ title: "At MAD//Fest, British marketers hammer out the industry’s future"
 date: 2024-07-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/mad-fest-british-marketers-identity-ctv-retail-media"
+type: "feature"
 featured: false
 ---
 

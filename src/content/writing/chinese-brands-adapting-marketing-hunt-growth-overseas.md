@@ -3,6 +3,7 @@ title: "How Chinese brands are adapting their marketing as they hunt for growth 
 date: 2023-04-10
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/chinese-brands-adapting-marketing-hunt-growth-overseas"
+type: "feature"
 featured: false
 ---
 

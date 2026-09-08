@@ -3,6 +3,7 @@ title: "What the World Cup reveals about European consumers — and why it matte
 date: 2026-05-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-world-cup-european-consumers-global-brand"
+type: "feature"
 featured: false
 ---
 

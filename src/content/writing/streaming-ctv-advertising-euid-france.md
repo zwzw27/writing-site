@@ -3,6 +3,7 @@ title: "Streaming giants will face stiffer competition for CTV ad dollars in Fra
 date: 2024-04-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/streaming-ctv-advertising-euid-france"
+type: "analysis"
 featured: false
 ---
 

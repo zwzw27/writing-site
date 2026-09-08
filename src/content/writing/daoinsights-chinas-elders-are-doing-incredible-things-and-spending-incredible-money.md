@@ -3,6 +3,7 @@ title: "China’s elders are doing incredible things – and spending incredible
 date: 2021-10-27
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/chinas-elders-are-doing-incredible-things-and-spending-incredible-money/"
+type: "feature"
 featured: false
 ---
 

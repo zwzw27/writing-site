@@ -1,14 +1,14 @@
 # Writing portfolio
 
-A static Astro portfolio hosted only on GitHub Pages. Markdown lives in this repository. No database, CMS, external fonts, client-side JavaScript, or hosting service is required. Astro is the only direct dependency; the lockfile keeps installations reproducible.
+A static Astro portfolio hosted only on GitHub Pages. Markdown lives in this repository. There is no database, CMS, external font, or outside hosting service. A small inline script powers the archive filters. Astro is the only direct dependency; the lockfile keeps installations reproducible.
 
-## Personalise before publishing
+## Site details
 
-- Edit `src/site.ts` for your name, introduction, description, and biography.
+- Edit `src/site.ts` for your name, role, introduction, and LinkedIn URL.
 - Edit the headline in `src/pages/index.astro` if desired.
-- `src/content/writing/` holds the full text of every article, imported from the author's contributor page at The Current. Each file links back to the original via `originalUrl`.
-- Keep **exactly five** articles marked `featured: true`. The build gives a readable error if the count differs or an article body is empty. Selected pieces are ordered newest first; they do not repeat under Other Writing. The archive includes everything.
-- Add real contact/CV links in `src/pages/about.astro` whenever ready.
+- `src/content/writing/` holds the full text of every archived article. Each file links back to the original via `originalUrl`.
+- Keep **exactly five** articles marked `featured: true`. The build gives a readable error if the count differs or an article body is empty. Selected pieces are ordered newest first. The archive includes everything.
+- Each article has a `type` of `analysis`, `feature`, or `news`; this powers the archive filters.
 
 ## Preview locally
 
@@ -78,13 +78,14 @@ title: "Article title"
 date: 2025-06-14
 publication: "Publication name"
 originalUrl: "https://example.com/article"
+type: "analysis"
 featured: false
 ---
 
 Full article text goes here.
 ```
 
-`date` is the original publication date in `YYYY-MM-DD` form. Dates are displayed in UTC so they do not shift a day during builds. Omit `originalUrl` entirely if there is no source link; do not leave an empty value. `featured` defaults to false when omitted. To change the selected five, switch one existing selected article to false and another to true in the same commit. If a build fails, the previous successful deployment stays online; read the Actions log for the content error.
+`date` is the original publication date in `YYYY-MM-DD` form. Dates are displayed in UTC so they do not shift a day during builds. Set `type` to `analysis`, `feature`, or `news`. Omit `originalUrl` entirely if there is no source link; do not leave an empty value. `featured` defaults to false when omitted. To change the selected five, switch one existing selected article to false and another to true in the same commit. If a build fails, the previous successful deployment stays online; read the Actions log for the content error.
 
 For local editing, copy `templates/article.md` into `src/content/writing`, rename it, edit it, then commit and push. The template is outside the content collection and is never published.
 
@@ -98,7 +99,6 @@ Use ordinary Markdown paragraphs, headings (`##` beneath the article title), lis
 - `src/pages/index.astro`: homepage
 - `src/pages/writing/index.astro`: archive
 - `src/pages/writing/[...id].astro`: generated full article pages
-- `src/pages/about.astro`: About page
 - `src/site.ts`: personal details
 - `src/styles/global.css`: responsive editorial styling
 - `.github/workflows/deploy.yml`: GitHub Pages build and deployment

@@ -3,6 +3,7 @@ title: "Marketers can now target Ocado shoppers across the open internet"
 date: 2023-03-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/marketers-target-ocado-shoppers-across-open-internet"
+type: "analysis"
 featured: false
 ---
 

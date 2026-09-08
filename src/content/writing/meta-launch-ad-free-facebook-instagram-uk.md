@@ -3,6 +3,7 @@ title: "Meta to launch ad-free Facebook and Instagram to the U.K., amid E.U. reg
 date: 2025-09-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/meta-launch-ad-free-facebook-instagram-uk"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Streaming the crown: How British media and advertising has evolved since
 date: 2023-05-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/british-media-advertising-changed-king-coronation"
+type: "feature"
 featured: false
 ---
 

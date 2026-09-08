@@ -3,6 +3,7 @@ title: "How Tubi’s U.K. expansion reflects the next phase of AVOD’s global g
 date: 2025-07-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-tubi-uk-expansion-avod-global-growth"
+type: "feature"
 featured: false
 ---
 

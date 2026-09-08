@@ -3,6 +3,7 @@ title: "Vive l'audio! How France became Europe's digital audio growth leader"
 date: 2026-07-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/vive-laudio-how-france-became-europe-digital-audio-growth-leader"
+type: "feature"
 featured: true
 ---
 

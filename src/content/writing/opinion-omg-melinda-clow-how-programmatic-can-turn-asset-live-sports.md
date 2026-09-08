@@ -3,6 +3,7 @@ title: "OMG’s Melinda Clow on how programmatic can turn live sports’ unpredi
 date: 2025-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/opinion-omg-melinda-clow-how-programmatic-can-turn-asset-live-sports"
+type: "feature"
 featured: false
 ---
 

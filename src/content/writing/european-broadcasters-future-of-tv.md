@@ -3,6 +3,7 @@ title: "European broadcasters are reinventing themselves for the future of TV"
 date: 2024-04-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/european-broadcasters-future-of-tv"
+type: "analysis"
 featured: false
 ---
 

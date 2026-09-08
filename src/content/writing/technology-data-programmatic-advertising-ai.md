@@ -3,6 +3,7 @@ title: "Tech advances are ushering in new creative possibilities for programmati
 date: 2023-09-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/technology-data-programmatic-advertising-ai"
+type: "analysis"
 featured: false
 ---
 

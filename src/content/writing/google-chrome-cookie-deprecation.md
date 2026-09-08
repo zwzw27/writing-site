@@ -3,6 +3,7 @@ title: "Marketers unfazed as Google delays cookie deprecation for third time"
 date: 2024-04-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/google-chrome-cookie-deprecation"
+type: "analysis"
 featured: false
 ---
 

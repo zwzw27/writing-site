@@ -3,6 +3,7 @@ title: "Deutsche Telekom’s Daniel Jäger on why responsible media drives bette
 date: 2024-12-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/deutsche-telekom-daniel-jaeger-media-tmobile"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "How B2B CMOs are rethinking brand discovery, beyond search and white pap
 date: 2026-03-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-b2b-cmos-rethinking-brand-discovery-beyond-search-white-papers"
+type: "feature"
 featured: false
 ---
 

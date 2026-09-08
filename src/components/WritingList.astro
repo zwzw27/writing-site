@@ -1,14 +1,14 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { articleHref, dateLabel } from '../lib/writing';
-interface Props { articles: CollectionEntry<'writing'>[]; selected?: boolean; }
-const { articles, selected = false } = Astro.props;
+interface Props { articles: CollectionEntry<'writing'>[]; selected?: boolean; filterable?: boolean; }
+const { articles, selected = false, filterable = false } = Astro.props;
 ---
-<ol class:list={['writing-list', { selected }]}>
-  {articles.map((article, index) => <li>
+<ol class:list={['writing-list', { selected, filterable }]}>
+  {articles.map((article, index) => <li data-type={filterable ? article.data.type : undefined}>
     {selected && <span class="number" aria-hidden="true">{String(index + 1).padStart(2, '0')}</span>}
     <div class="entry"><h3><a href={articleHref(article.id)}>{article.data.title}</a></h3>
-      <p class="meta"><span>{article.data.publication}</span><span aria-hidden="true">·</span><time datetime={article.data.date.toISOString().slice(0, 10)}>{dateLabel(article.data.date)}</time></p>
+      <p class="meta">{filterable && <span class="type-label">{article.data.type}</span>}<span>{article.data.publication}</span><span aria-hidden="true">·</span><time datetime={article.data.date.toISOString().slice(0, 10)}>{dateLabel(article.data.date)}</time></p>
     </div>
   </li>)}
 </ol>

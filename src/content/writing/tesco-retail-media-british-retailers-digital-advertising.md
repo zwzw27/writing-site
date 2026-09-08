@@ -3,6 +3,7 @@ title: "Tesco pushes further into retail media as British retailers bet the cart
 date: 2022-12-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/tesco-retail-media-british-retailers-digital-advertising"
+type: "analysis"
 featured: false
 ---
 

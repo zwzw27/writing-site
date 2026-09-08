@@ -3,6 +3,7 @@ title: "The growing appeal of China's Gen Z for marketers"
 date: 2024-09-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/china-gen-z-marketers-open-internet-omnichannel"
+type: "feature"
 featured: false
 ---
 

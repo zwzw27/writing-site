@@ -3,6 +3,7 @@ title: "P&G China releases emotional ad showing the hidden life of China's blind
 date: 2021-12-14
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/pg-china-releases-emotional-ad-showing-the-hidden-life-of-chinas-blind/"
+type: "feature"
 featured: false
 ---
 

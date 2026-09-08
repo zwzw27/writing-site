@@ -3,6 +3,7 @@ title: "5 things to know about marketing to China's post-95s"
 date: 2021-11-23
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/opinions/5-things-to-know-about-marketing-to-chinas-post-95s/"
+type: "feature"
 featured: false
 ---
 

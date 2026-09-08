@@ -3,6 +3,7 @@ title: "Why targeting isn’t a big deal during the World Cup, according to stre
 date: 2026-06-10
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/why-targeting-isnt-big-deal-world-cup-streamer-dazn"
+type: "feature"
 featured: false
 ---
 

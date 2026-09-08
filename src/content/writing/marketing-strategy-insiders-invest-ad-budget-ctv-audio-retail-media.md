@@ -3,6 +3,7 @@ title: "4 insiders explain how they would invest a $500,000 ad budget right now"
 date: 2025-08-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-insiders-invest-ad-budget-ctv-audio-retail-media"
+type: "feature"
 featured: false
 ---
 

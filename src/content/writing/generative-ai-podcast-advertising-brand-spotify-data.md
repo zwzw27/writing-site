@@ -3,6 +3,7 @@ title: "One year in, generative AI is quickly reshaping the world of podcasting"
 date: 2023-10-31
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/generative-ai-podcast-advertising-brand-spotify-data"
+type: "analysis"
 featured: false
 ---
 

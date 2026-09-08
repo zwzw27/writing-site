@@ -3,6 +3,7 @@ title: "How 3 media leads would invest a $2 million ad budget right now"
 date: 2025-12-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-3-media-leads-invest-2-million-ad-budget-right-now"
+type: "feature"
 featured: false
 ---
 

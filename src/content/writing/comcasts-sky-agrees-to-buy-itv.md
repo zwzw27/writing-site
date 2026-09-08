@@ -3,6 +3,7 @@ title: "Comcast’s Sky agrees to buy ITV in deal that consolidates Britain’s 
 date: 2026-07-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/comcasts-sky-agrees-to-buy-itv"
+type: "news"
 featured: true
 ---
 

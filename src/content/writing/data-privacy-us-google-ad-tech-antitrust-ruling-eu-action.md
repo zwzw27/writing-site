@@ -3,6 +3,7 @@ title: "Will the U.S. Google ad tech ruling set the stage for E.U. action?"
 date: 2025-04-28
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-us-google-ad-tech-antitrust-ruling-eu-action"
+type: "analysis"
 featured: false
 ---
 

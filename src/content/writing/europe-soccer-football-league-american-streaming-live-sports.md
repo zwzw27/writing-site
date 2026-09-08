@@ -3,6 +3,7 @@ title: "Europe’s top football leagues eye American fans as streaming giants be
 date: 2023-08-15
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/europe-soccer-football-league-american-streaming-live-sports"
+type: "feature"
 featured: false
 ---
 

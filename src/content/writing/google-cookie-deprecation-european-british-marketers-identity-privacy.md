@@ -3,6 +3,7 @@ title: "How Google’s U-turn on cookie deprecation will affect European markete
 date: 2024-07-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/google-cookie-deprecation-european-british-marketers-identity-privacy"
+type: "feature"
 featured: false
 ---
 

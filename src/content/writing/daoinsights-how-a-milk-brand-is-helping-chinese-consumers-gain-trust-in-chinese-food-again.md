@@ -3,6 +3,7 @@ title: "How a milk brand helps Chinese consumers regain trust in Chinese food"
 date: 2021-10-05
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/how-a-milk-brand-is-helping-chinese-consumers-gain-trust-in-chinese-food-again/"
+type: "feature"
 featured: false
 ---
 

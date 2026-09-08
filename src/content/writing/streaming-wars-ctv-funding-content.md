@@ -3,6 +3,7 @@ title: "Streaming wars, episode II: ‘Funding the Content Machine’"
 date: 2023-01-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/streaming-wars-ctv-funding-content"
+type: "feature"
 featured: false
 ---
 

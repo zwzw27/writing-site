@@ -3,6 +3,7 @@ title: "The Dao guide for brands: working with video games in China"
 date: 2021-12-03
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/opinions/the-dao-guide-for-brands-working-with-video-games-in-china/"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Reinventing TV: AI, programmatic and the overlooked battle for your bigg
 date: 2025-09-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-reinventing-tv-ai-programmatic-ctv"
+type: "analysis"
 featured: false
 ---
 

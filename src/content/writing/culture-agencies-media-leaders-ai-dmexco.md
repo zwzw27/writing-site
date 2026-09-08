@@ -3,6 +3,7 @@ title: "‘Agencies as we know them will be dead’: Media leaders pull no punch
 date: 2025-09-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/culture-agencies-media-leaders-ai-dmexco"
+type: "analysis"
 featured: false
 ---
 

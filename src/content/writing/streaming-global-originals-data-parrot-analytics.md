@@ -3,6 +3,7 @@ title: "Smaller streamers’ share of global demand for originals increased 36% 
 date: 2024-03-05
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/streaming-global-originals-data-parrot-analytics"
+type: "analysis"
 featured: false
 ---
 

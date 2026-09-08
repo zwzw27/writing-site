@@ -3,6 +3,7 @@ title: "France is leading Europe’s response to the streaming era"
 date: 2025-07-31
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/france-europe-era-content-partnerships-ad-tech-innovation-streaming"
+type: "analysis"
 featured: false
 ---
 

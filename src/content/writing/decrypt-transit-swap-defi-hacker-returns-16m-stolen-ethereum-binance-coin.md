@@ -3,6 +3,7 @@ title: "Transit Swap DeFi Hacker Returns $16M in Stolen Ethereum, Binance Coin"
 date: 2022-10-03
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111078/transit-swap-defi-hacker-returns-16m-stolen-ethereum-binance-coin"
+type: "news"
 featured: false
 ---
 

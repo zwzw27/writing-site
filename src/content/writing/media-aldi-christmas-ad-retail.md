@@ -3,6 +3,7 @@ title: "This festive season, more cute characters will compete with Aldi’s Kev
 date: 2023-12-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/media-aldi-christmas-ad-retail"
+type: "analysis"
 featured: false
 ---
 

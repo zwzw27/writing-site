@@ -3,6 +3,7 @@ title: "E.U. says Google Search violated competition rules in preliminary findin
 date: 2025-03-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/eu-says-google-search-violated-competition-rules-in-preliminary-findings"
+type: "analysis"
 featured: false
 ---
 

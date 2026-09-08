@@ -3,6 +3,7 @@ title: "Bitcoin, Ethereum Erase Losses Following Hot Inflation Report"
 date: 2022-10-14
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111964/bitcoin-ethereum-erase-losses-following-hot-inflation-report"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "What happened to big, bold brand campaigns?"
 date: 2023-10-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/brand-campaigns-marketing-media-streaming-data"
+type: "feature"
 featured: false
 ---
 

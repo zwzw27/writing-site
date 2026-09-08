@@ -3,6 +3,7 @@ title: "YouTube avoids UK streaming TV rules as it chases ad budgets"
 date: 2026-03-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-youtube-avoids-uk-streaming-tv-rules-ad-budgets"
+type: "analysis"
 featured: false
 ---
 

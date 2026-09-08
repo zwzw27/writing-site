@@ -3,6 +3,7 @@ title: "Inside WPP’s new agentic AI platform and what it means for brands"
 date: 2025-10-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-inside-wpp-new-agentic-platform-what-it-means-for-brands-ai"
+type: "feature"
 featured: false
 ---
 

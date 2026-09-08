@@ -3,6 +3,7 @@ title: "Spotify is coming for YouTube’s video crown, and some media buyers are
 date: 2025-11-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-marketing-strategy-spotify-youtube-video-crown-media-buyers-shifting-strategies"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "The value of the open internet is growing in the eyes of advertisers"
 date: 2024-05-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/report-open-internet-digital-advertisers"
+type: "feature"
 featured: false
 ---
 

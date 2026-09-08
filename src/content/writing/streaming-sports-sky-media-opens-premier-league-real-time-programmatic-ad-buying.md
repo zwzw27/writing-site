@@ -3,6 +3,7 @@ title: "Sky Media opens live Premier League matches to programmatic buying for t
 date: 2025-04-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-sports-sky-media-opens-premier-league-real-time-programmatic-ad-buying"
+type: "analysis"
 featured: false
 ---
 

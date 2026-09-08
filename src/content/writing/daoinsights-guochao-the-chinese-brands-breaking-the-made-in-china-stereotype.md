@@ -3,6 +3,7 @@ title: "Guochao: The Chinese brands breaking the “Made in China” stereotype"
 date: 2021-10-06
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/guochao-the-chinese-brands-breaking-the-made-in-china-stereotype/"
+type: "feature"
 featured: false
 ---
 

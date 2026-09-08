@@ -3,6 +3,7 @@ title: "France’s Canal+ emerges as a new global counterweight in streaming"
 date: 2025-12-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-france-canal--showmax-multichoice-global-media-tv"
+type: "analysis"
 featured: false
 ---
 

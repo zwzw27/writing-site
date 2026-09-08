@@ -3,6 +3,7 @@ title: "Some brands in the U.S. cut media budgets, want flexibility and ROI afte
 date: 2025-04-08
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-brands-us-cut-media-budgets-flexibility-roi-trump-tariffs"
+type: "analysis"
 featured: false
 ---
 

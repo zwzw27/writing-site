@@ -8,6 +8,7 @@ const writing = defineCollection({
     date: z.coerce.date(),
     publication: z.string().trim().min(1),
     originalUrl: z.string().url().refine(value => /^https?:\/\//.test(value), 'Use an http or https URL').optional(),
+    type: z.enum(['analysis', 'feature', 'news']),
     featured: z.boolean().default(false),
   }),
 });

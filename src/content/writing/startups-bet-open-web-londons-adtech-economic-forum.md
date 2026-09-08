@@ -3,6 +3,7 @@ title: "Startups bet on the open web at London’s ad tech forum"
 date: 2025-02-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/startups-bet-open-web-londons-adtech-economic-forum"
+type: "analysis"
 featured: false
 ---
 

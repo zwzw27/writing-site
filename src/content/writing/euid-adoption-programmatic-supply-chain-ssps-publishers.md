@@ -3,6 +3,7 @@ title: "EUID adoption increases across the programmatic supply chain, from SSPs 
 date: 2024-11-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/euid-adoption-programmatic-supply-chain-ssps-publishers"
+type: "analysis"
 featured: false
 ---
 

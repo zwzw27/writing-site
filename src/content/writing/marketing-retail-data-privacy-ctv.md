@@ -3,6 +3,7 @@ title: "Just for conversions? Why marketers may be missing the bigger picture on
 date: 2024-03-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-retail-data-privacy-ctv"
+type: "feature"
 featured: false
 ---
 

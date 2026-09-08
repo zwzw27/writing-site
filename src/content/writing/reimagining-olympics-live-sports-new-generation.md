@@ -3,6 +3,7 @@ title: "Reimagining the Olympics, and live sports, for a new generation"
 date: 2024-08-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/reimagining-olympics-live-sports-new-generation"
+type: "feature"
 featured: false
 ---
 

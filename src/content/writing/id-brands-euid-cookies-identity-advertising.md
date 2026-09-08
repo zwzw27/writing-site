@@ -3,6 +3,7 @@ title: "Alternative ID solutions are gaining ground in Europe, as major brands b
 date: 2023-06-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/id-brands-euid-cookies-identity-advertising"
+type: "analysis"
 featured: false
 ---
 

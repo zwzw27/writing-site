@@ -3,6 +3,7 @@ title: "Squid Game is back. Will advertisers join the game?"
 date: 2025-01-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/squid-game-advertisers-sports-streaming"
+type: "analysis"
 featured: false
 ---
 

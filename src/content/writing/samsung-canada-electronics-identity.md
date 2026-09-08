@@ -3,6 +3,7 @@ title: "How Samsung Electronics Canada is 'future-proofing' its business with UI
 date: 2024-02-15
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/samsung-canada-electronics-identity"
+type: "feature"
 featured: false
 ---
 

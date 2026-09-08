@@ -3,6 +3,7 @@ title: "5 Minutes with Treasury Wine Estates’ Ben Oliver"
 date: 2024-08-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/5-minutes-with-treasury-wine-estates-ben-oliver"
+type: "analysis"
 featured: false
 ---
 

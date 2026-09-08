@@ -3,6 +3,7 @@ title: "Could AI spark human creativity? Cannes Lions makes an argument for it."
 date: 2026-06-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/could-ai-spark-human-creativity-cannes-lions-makes-argument-for-it"
+type: "analysis"
 featured: false
 ---
 

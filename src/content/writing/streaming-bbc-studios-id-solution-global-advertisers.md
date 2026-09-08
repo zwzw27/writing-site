@@ -3,6 +3,7 @@ title: "BBC Studios is developing its own ID solution as it seeks to woo global 
 date: 2025-03-31
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-bbc-studios-id-solution-global-advertisers"
+type: "analysis"
 featured: false
 ---
 

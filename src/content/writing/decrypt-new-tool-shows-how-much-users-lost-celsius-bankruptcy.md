@@ -3,6 +3,7 @@ title: "New Tool Shows Just How Much Users Lost in Celsius Bankruptcy"
 date: 2022-10-10
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111550/new-tool-shows-how-much-users-lost-celsius-bankruptcy"
+type: "news"
 featured: false
 ---
 

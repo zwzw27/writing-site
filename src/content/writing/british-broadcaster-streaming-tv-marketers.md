@@ -3,6 +3,7 @@ title: "How Hollywood’s strikes could begin to level the playing field for Bri
 date: 2024-01-10
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/british-broadcaster-streaming-tv-marketers"
+type: "feature"
 featured: false
 ---
 

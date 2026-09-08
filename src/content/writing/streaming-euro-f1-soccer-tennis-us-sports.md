@@ -3,6 +3,7 @@ title: "Euro sports-mania: How F1, soccer and tennis are winning U.S. streaming 
 date: 2025-08-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-euro-f1-soccer-tennis-us-sports"
+type: "feature"
 featured: false
 ---
 

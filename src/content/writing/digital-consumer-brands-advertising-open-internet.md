@@ -3,6 +3,7 @@ title: "DTC brands increasingly see the advertising opportunity on the open inte
 date: 2023-11-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/digital-consumer-brands-advertising-open-internet"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "EU probes Google over alleged search bias against publishers"
 date: 2025-11-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/eu-probes-google-search-bias-publishers"
+type: "news"
 featured: false
 ---
 

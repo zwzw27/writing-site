@@ -3,6 +3,7 @@ title: "Google offers ad tech changes to avoid EU-mandated divestment"
 date: 2025-11-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-google-ad-tech-changes-eu-mandated-divestment"
+type: "analysis"
 featured: false
 ---
 

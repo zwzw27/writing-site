@@ -3,6 +3,7 @@ title: "Publicis-LiveRamp skepticism spreads to the U.K. and Europe as ad leader
 date: 2026-06-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/publicis-liveramp-skepticism-spreads-uk-europe-ad-leaders-voice-neutrality-concerns"
+type: "analysis"
 featured: false
 ---
 

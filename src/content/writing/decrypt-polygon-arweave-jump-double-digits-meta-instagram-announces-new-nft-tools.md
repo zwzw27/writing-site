@@ -3,6 +3,7 @@ title: "Polygon, Arweave Jump Double Digits as Meta’s Instagram Announces New 
 date: 2022-11-03
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/113446/polygon-arweave-jump-double-digits-meta-instagram-announces-new-nft-tools"
+type: "news"
 featured: false
 ---
 

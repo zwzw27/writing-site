@@ -3,6 +3,7 @@ title: "British Gen Zers’ podcast use is growing at twice the rate of millenni
 date: 2023-07-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/british-gen-z-podcast-millennials-trends"
+type: "analysis"
 featured: false
 ---
 

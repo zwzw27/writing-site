@@ -3,6 +3,7 @@ title: "As Britain bans social media for teens, marketers brace for a new realit
 date: 2026-06-16
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/uk-under-16-social-media"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Avoiding news may shrink German reach by almost 20%"
 date: 2026-02-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/marketing-strategy-stagwell-avoiding-news-shrink-german-reach"
+type: "analysis"
 featured: false
 ---
 

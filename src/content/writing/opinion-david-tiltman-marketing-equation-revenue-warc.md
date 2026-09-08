@@ -3,6 +3,7 @@ title: "Changing the marketing equation yields 90% more revenue returns, WARC su
 date: 2025-06-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/opinion-david-tiltman-marketing-equation-revenue-warc"
+type: "analysis"
 featured: false
 ---
 

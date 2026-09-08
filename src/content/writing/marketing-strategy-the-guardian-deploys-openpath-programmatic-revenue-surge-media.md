@@ -3,6 +3,7 @@ title: "The Guardian deploys OpenPath amid programmatic revenue surge"
 date: 2025-03-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-the-guardian-deploys-openpath-programmatic-revenue-surge-media"
+type: "analysis"
 featured: false
 ---
 

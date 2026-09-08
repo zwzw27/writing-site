@@ -3,6 +3,7 @@ title: "A sex toy ad brings female pleasure to the spotlight in China"
 date: 2021-08-31
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/a-sex-toy-ad-brings-female-pleasure-to-the-sportlight-in-china/"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Premium journalism may see a renaissance in the Generative AI era"
 date: 2024-11-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/premium-journalism-renaissance-generative-ai-news"
+type: "analysis"
 featured: false
 ---
 

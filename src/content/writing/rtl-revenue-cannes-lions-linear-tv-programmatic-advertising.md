@@ -3,6 +3,7 @@ title: "RTL says revenue could double as it opens up linear TV to programmatic b
 date: 2023-06-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/rtl-revenue-cannes-lions-linear-tv-programmatic-advertising"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "As upfronts wrap up, British marketers foresee a flurry of innovation in
 date: 2024-10-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/as-upfronts-wrapupfronts-british-marketers-innovation-retail-media-ctv"
+type: "analysis"
 featured: false
 ---
 

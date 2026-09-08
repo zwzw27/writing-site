@@ -3,6 +3,7 @@ title: "Measurement can’t capture everything brand advertising (yet). What if 
 date: 2026-03-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-measurement-brand-advertising-advertising-week-europe"
+type: "analysis"
 featured: false
 ---
 

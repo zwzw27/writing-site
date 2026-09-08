@@ -3,6 +3,7 @@ title: "Genesis Sought $1B Bailout From Investors Before Halting Withdrawals: Re
 date: 2022-11-18
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/115017/genesis-sought-1b-bailout-investors-before-halting-withdrawals-report"
+type: "news"
 featured: false
 ---
 

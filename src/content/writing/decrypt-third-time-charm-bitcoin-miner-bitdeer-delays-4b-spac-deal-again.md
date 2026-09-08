@@ -3,6 +3,7 @@ title: "Third Time’s a Charm? Bitcoin Miner Bitdeer Delays $4B SPAC Deal Again
 date: 2022-11-02
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/113353/third-time-charm-bitcoin-miner-bitdeer-delays-4b-spac-deal-again"
+type: "news"
 featured: false
 ---
 

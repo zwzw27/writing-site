@@ -3,6 +3,7 @@ title: "British advertising leaders on 5 lessons from 5 years of GDPR"
 date: 2023-06-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/british-advertising-gdpr-ai-data-privacy"
+type: "analysis"
 featured: false
 ---
 

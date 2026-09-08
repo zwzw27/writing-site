@@ -3,6 +3,7 @@ title: "Meta’s ad business faces uncertainty in E.U. after €200 million fine
 date: 2025-05-01
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-meta-ad-business-uncertainty-eu-200-million-fine"
+type: "analysis"
 featured: false
 ---
 

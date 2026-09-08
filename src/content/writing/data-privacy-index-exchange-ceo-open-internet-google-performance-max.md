@@ -3,6 +3,7 @@ title: "Index Exchange CEO: Time for a Performance Max for the open internet"
 date: 2025-03-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-index-exchange-ceo-open-internet-google-performance-max"
+type: "analysis"
 featured: false
 ---
 

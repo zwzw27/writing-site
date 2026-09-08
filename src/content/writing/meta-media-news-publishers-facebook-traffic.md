@@ -3,6 +3,7 @@ title: "As Meta tightens the traffic tap, where will news publications turn for 
 date: 2024-03-08
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/meta-media-news-publishers-facebook-traffic"
+type: "feature"
 featured: false
 ---
 

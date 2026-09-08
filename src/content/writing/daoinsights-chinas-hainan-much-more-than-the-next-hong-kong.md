@@ -3,6 +3,7 @@ title: "China's Hainan - Much More Than the \"Next Hong Kong\""
 date: 2021-04-28
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/opinions/chinas-hainan-much-more-than-the-next-hong-kong/"
+type: "feature"
 featured: false
 ---
 

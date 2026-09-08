@@ -3,6 +3,7 @@ title: "Five markets that will define global advertising in 2026"
 date: 2026-01-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-five-countries-watch-2026-gdpr-sports"
+type: "feature"
 featured: false
 ---
 

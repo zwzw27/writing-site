@@ -3,6 +3,7 @@ title: "Binance Launches $500 Million Lending Pool for Bitcoin Miners"
 date: 2022-10-14
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111971/binance-launches-500-million-lending-pool-bitcoin-miners"
+type: "news"
 featured: false
 ---
 

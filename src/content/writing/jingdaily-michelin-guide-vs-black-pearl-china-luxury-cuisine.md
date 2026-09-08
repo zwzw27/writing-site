@@ -3,6 +3,7 @@ title: "Black Pearl Vs. Michelin Guide: Culture And Controversy In China’s Lux
 date: 2023-04-05
 publication: "Jing Daily"
 originalUrl: "https://jingdaily.com/posts/michelin-guide-vs-black-pearl-china-luxury-cuisine"
+type: "feature"
 featured: false
 ---
 

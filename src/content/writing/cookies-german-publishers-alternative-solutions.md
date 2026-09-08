@@ -3,6 +3,7 @@ title: "Cookies or not, German publishers are already monetizing their inventori
 date: 2024-07-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/cookies-german-publishers-alternative-solutions"
+type: "analysis"
 featured: false
 ---
 

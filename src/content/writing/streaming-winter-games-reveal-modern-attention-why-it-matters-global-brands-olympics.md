@@ -3,6 +3,7 @@ title: "What the Winter Games reveal about modern attention — and why it matte
 date: 2026-01-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-winter-games-reveal-modern-attention-why-it-matters-global-brands-olympics"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Digital out-of-home is emerging as a bright star in MENA in a year of ec
 date: 2023-07-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/dooh-mena-advertiser-digital-marketing-programmatic-connected-tv-streaming"
+type: "analysis"
 featured: false
 ---
 

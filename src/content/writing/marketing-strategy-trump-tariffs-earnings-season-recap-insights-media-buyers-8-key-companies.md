@@ -3,6 +3,7 @@ title: "‘Trump tariffs’ earnings season recap: Insights for media buyers fro
 date: 2025-05-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-trump-tariffs-earnings-season-recap-insights-media-buyers-8-key-companies"
+type: "feature"
 featured: false
 ---
 

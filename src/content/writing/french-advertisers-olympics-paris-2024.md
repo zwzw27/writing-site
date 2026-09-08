@@ -3,6 +3,7 @@ title: "French advertisers eye the opportunity of a century in Paris 2024"
 date: 2024-04-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/french-advertisers-olympics-paris-2024"
+type: "analysis"
 featured: false
 ---
 

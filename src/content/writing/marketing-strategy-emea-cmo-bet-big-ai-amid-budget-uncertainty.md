@@ -3,6 +3,7 @@ title: "EMEA CMOs bet big on AI amid budget uncertainty"
 date: 2025-12-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-emea-cmo-bet-big-ai-amid-budget-uncertainty"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Food-delivery and ride-hailing apps are heating up the retail media race
 date: 2023-08-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/food-delivery-apps-retail-media-advertising"
+type: "feature"
 featured: false
 ---
 

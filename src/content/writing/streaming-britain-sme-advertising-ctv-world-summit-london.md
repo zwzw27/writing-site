@@ -3,6 +3,7 @@ title: "Britain’s SMEs are finally advertising on CTV. The next challenge is k
 date: 2026-03-16
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-britain-sme-advertising-ctv-world-summit-london"
+type: "analysis"
 featured: false
 ---
 

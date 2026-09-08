@@ -3,6 +3,7 @@ title: "How LLMs are reshaping CTV planning, activation and measurement"
 date: 2026-01-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-ai-llm-ctv-campaign-planning-chatgpt-measurement-activation-6"
+type: "feature"
 featured: false
 ---
 

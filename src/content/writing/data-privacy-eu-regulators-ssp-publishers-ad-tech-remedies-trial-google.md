@@ -3,6 +3,7 @@ title: "EU regulators, SSPs and publishers pile on Google as U.S. ad tech remedi
 date: 2025-09-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-eu-regulators-ssp-publishers-ad-tech-remedies-trial-google"
+type: "analysis"
 featured: false
 ---
 

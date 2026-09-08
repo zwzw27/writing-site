@@ -3,6 +3,7 @@ title: "CTV, first-party data breathe new life into post-pandemic travel adverti
 date: 2023-09-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/ctv-data-pandemic-travel-advertising-programmatic-identity"
+type: "analysis"
 featured: false
 ---
 

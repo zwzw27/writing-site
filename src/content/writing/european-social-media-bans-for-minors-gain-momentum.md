@@ -3,6 +3,7 @@ title: "European social media bans for minors gain momentum"
 date: 2026-04-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/european-social-media-bans-for-minors-gain-momentum"
+type: "news"
 featured: false
 ---
 

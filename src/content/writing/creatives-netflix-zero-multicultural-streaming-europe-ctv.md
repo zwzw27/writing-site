@@ -3,6 +3,7 @@ title: "Creatives who worked on Netflix’s Zero on the future of multicultural 
 date: 2023-04-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/creatives-netflix-zero-multicultural-streaming-europe-ctv"
+type: "analysis"
 featured: false
 ---
 

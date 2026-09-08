@@ -3,6 +3,7 @@ title: "Telefónica Invests in Crypto Exchange, Launches Payments Pilot"
 date: 2022-09-30
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/110964/telefonica-invests-29m-crypto-exchange-launches-payments-pilot-report"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "How Will Italian Gastronomy Recapture China’s Palates?"
 date: 2023-01-10
 publication: "Jing Daily"
 originalUrl: "https://jingdaily.com/posts/italian-gastronomy-china"
+type: "feature"
 featured: false
 ---
 

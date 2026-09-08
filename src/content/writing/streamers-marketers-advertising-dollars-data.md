@@ -3,6 +3,7 @@ title: "Streamers are giving marketers more signal as the competition for ad dol
 date: 2024-12-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streamers-marketers-advertising-dollars-data"
+type: "analysis"
 featured: false
 ---
 

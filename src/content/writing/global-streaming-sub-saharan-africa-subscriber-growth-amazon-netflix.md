@@ -3,6 +3,7 @@ title: "Global streaming giants are looking to sub-Saharan Africa as the next en
 date: 2023-07-26
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/global-streaming-sub-saharan-africa-subscriber-growth-amazon-netflix"
+type: "feature"
 featured: false
 ---
 

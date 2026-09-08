@@ -3,6 +3,7 @@ title: "Bored Apes' Otherside Builder Improbable Eyes Fresh Funding at $3BValuat
 date: 2022-10-03
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111088/bored-apes-otherside-builders-improbable-eyes-fresh-funding-3-billion-valuation-report"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "YouTube wants TV budgets but not TV scrutiny"
 date: 2026-02-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-youtube-tv-budgets-scrutiny-measurement-data"
+type: "analysis"
 featured: false
 ---
 

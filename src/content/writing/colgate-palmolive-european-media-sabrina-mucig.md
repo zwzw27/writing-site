@@ -3,6 +3,7 @@ title: "Why Colgate-Palmolive’s European media lead believes premium content b
 date: 2024-08-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/colgate-palmolive-european-media-sabrina-mucig"
+type: "feature"
 featured: false
 ---
 

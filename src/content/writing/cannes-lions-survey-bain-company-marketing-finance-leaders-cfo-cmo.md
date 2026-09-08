@@ -3,6 +3,7 @@ title: "A survey of 1,400 marketing and finance leaders shows what CFOs really w
 date: 2026-06-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/cannes-lions-survey-bain-company-marketing-finance-leaders-cfo-cmo"
+type: "feature"
 featured: false
 ---
 

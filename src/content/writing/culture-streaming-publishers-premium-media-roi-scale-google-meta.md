@@ -3,6 +3,7 @@ title: "Publishers tout premium media’s ROI and scale as Google, Meta face gro
 date: 2025-09-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/culture-streaming-publishers-premium-media-roi-scale-google-meta"
+type: "analysis"
 featured: false
 ---
 

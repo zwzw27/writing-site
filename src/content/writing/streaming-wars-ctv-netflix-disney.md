@@ -3,6 +3,7 @@ title: "Streaming wars, episode I: ‘The Big Picture’"
 date: 2023-01-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/streaming-wars-ctv-netflix-disney"
+type: "analysis"
 featured: false
 ---
 

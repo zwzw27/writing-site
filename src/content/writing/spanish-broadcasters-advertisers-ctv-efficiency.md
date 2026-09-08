@@ -3,6 +3,7 @@ title: "Spanish broadcasters and advertisers look to CTV in the ‘year of effic
 date: 2023-03-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/spanish-broadcasters-advertisers-ctv-efficiency"
+type: "analysis"
 featured: false
 ---
 

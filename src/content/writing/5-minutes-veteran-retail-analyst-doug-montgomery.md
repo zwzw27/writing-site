@@ -3,6 +3,7 @@ title: "5 Minutes with veteran retail analyst Doug Montgomery"
 date: 2024-06-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/5-minutes-veteran-retail-analyst-doug-montgomery"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Spotify launches ad exchange and generative AI ad creator, adopts UID2 i
 date: 2025-04-03
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-spotify-launches-ad-exchange-generative-ai-uid2-ad-dollars"
+type: "news"
 featured: false
 ---
 

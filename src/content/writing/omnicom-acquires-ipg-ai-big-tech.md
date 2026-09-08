@@ -3,6 +3,7 @@ title: "Omnicom agrees to acquire IPG and take the AI fight to Big Tech"
 date: 2024-12-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/omnicom-acquires-ipg-ai-big-tech"
+type: "news"
 featured: false
 ---
 

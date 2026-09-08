@@ -3,6 +3,7 @@ title: "Netflix, European streamers turn to ad tech to win advertisers"
 date: 2025-02-26
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/netflix-european-streamer-advertising-technology"
+type: "analysis"
 featured: false
 ---
 

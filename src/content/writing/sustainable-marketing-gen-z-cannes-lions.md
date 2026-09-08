@@ -3,6 +3,7 @@ title: "A new sustainable marketing study shows how to reach coveted Gen Zers"
 date: 2023-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/sustainable-marketing-gen-z-cannes-lions"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "How Luxury Brands Are Reviving Chinese Artisanal Traditions For Contempo
 date: 2023-01-31
 publication: "Jing Daily"
 originalUrl: "https://jingdaily.com/posts/brands-reviving-chinese-artisanal-traditions"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "The great restructuring of digital news media"
 date: 2024-02-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/advertising-restructuring-digital-news-media"
+type: "feature"
 featured: false
 ---
 

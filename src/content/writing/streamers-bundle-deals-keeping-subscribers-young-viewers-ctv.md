@@ -3,6 +3,7 @@ title: "Streamers’ bundle deals are keeping subscribers and younger viewers ho
 date: 2023-03-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/streamers-bundle-deals-keeping-subscribers-young-viewers-ctv"
+type: "analysis"
 featured: false
 ---
 

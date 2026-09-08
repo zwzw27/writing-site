@@ -3,6 +3,7 @@ title: "EU orders Google to share search data with rival search services"
 date: 2026-07-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/eu-orders-google-to-share-search-data-with-rival-search-services"
+type: "news"
 featured: true
 ---
 

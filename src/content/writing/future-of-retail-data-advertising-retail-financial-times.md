@@ -3,6 +3,7 @@ title: "Why retail media’s growth could change retail as you know it"
 date: 2024-09-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/future-of-retail-data-advertising-retail-financial-times"
+type: "feature"
 featured: false
 ---
 

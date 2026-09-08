@@ -3,6 +3,7 @@ title: "Crypto Exchange Gemini Expands to 5 More European Countries"
 date: 2022-11-07
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/113738/crypto-exchange-gemini-expands-5-more-european-countries"
+type: "news"
 featured: false
 ---
 

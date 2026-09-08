@@ -3,6 +3,7 @@ title: "AI is helping marketers master the open web — even as it rewrites the 
 date: 2025-08-05
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-open-web-data-media-buying-ai"
+type: "analysis"
 featured: false
 ---
 

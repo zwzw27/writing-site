@@ -3,6 +3,7 @@ title: "Why U.K. retailers are doubling down on digital ads amid soaring inflati
 date: 2022-11-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/why-uk-retailers-doubling-down-digital-ads-soaring-inflation"
+type: "feature"
 featured: false
 ---
 

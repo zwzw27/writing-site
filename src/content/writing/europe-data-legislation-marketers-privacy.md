@@ -3,6 +3,7 @@ title: "The EU’s latest data legislation adds to growing regulatory landscape 
 date: 2024-01-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/europe-data-legislation-marketers-privacy"
+type: "feature"
 featured: false
 ---
 

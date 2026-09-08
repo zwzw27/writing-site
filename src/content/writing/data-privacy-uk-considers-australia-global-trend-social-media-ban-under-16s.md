@@ -3,6 +3,7 @@ title: "UK considers social media ban for under-16s as Australia sets global tre
 date: 2026-01-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-uk-considers-australia-global-trend-social-media-ban-under-16s"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Mastercard Taps Paxos to Launch Crypto Trading for Banks"
 date: 2022-10-17
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/112140/mastercard-taps-paxos-launch-crypto-trading-banks"
+type: "news"
 featured: false
 ---
 

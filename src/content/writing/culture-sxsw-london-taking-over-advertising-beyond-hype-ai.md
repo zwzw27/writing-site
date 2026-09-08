@@ -3,6 +3,7 @@ title: "SXSW London: How AI is taking over advertising, beyond the hype"
 date: 2025-06-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/culture-sxsw-london-taking-over-advertising-beyond-hype-ai"
+type: "feature"
 featured: false
 ---
 

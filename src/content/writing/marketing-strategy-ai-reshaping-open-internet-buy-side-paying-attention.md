@@ -3,6 +3,7 @@ title: "AI is reshaping the open internet. Is the buy side paying attention?"
 date: 2026-03-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/marketing-strategy-ai-reshaping-open-internet-buy-side-paying-attention"
+type: "analysis"
 featured: false
 ---
 

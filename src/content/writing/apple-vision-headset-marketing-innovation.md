@@ -3,6 +3,7 @@ title: "Mixed reality is the next shiny thing for marketers, but some remain cau
 date: 2024-01-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/apple-vision-headset-marketing-innovation"
+type: "feature"
 featured: false
 ---
 

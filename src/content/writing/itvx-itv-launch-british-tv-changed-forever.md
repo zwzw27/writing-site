@@ -3,6 +3,7 @@ title: "ITVX and the week British telly changed forever"
 date: 2022-12-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/itvx-itv-launch-british-tv-changed-forever"
+type: "feature"
 featured: false
 ---
 

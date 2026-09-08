@@ -3,6 +3,7 @@ title: "Why Samsung Ads is exploring new formats in the race to reimagine TV ads
 date: 2025-07-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/opinion-samsung-ads-minai-bui-europe-ctv-advertising"
+type: "feature"
 featured: false
 ---
 

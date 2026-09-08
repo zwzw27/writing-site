@@ -3,6 +3,7 @@ title: "Nine’s programmatic boss Jordan King on the future of Australian TV"
 date: 2024-06-26
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/nine-programmatic-jordan-king-australia-ctv"
+type: "analysis"
 featured: false
 ---
 

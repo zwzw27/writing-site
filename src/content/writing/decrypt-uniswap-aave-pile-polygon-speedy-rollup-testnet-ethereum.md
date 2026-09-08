@@ -3,6 +3,7 @@ title: "Uniswap, Aave Pile Into Polygon's Speedy Rollup Testnet for Ethereum"
 date: 2022-10-10
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111576/uniswap-aave-pile-polygon-speedy-rollup-testnet-ethereum"
+type: "news"
 featured: false
 ---
 

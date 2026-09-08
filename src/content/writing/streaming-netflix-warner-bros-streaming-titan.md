@@ -3,6 +3,7 @@ title: "Netflix agrees to buy Warner Bros., creating a potential streaming titan
 date: 2025-12-05
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-netflix-warner-bros-streaming-titan"
+type: "news"
 featured: false
 ---
 

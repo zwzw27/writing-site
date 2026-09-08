@@ -3,6 +3,7 @@ title: "Substack is surging thanks to premium content. Next, it’s eyeing ads."
 date: 2025-08-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-substack-surging-premium-content-ads"
+type: "analysis"
 featured: false
 ---
 

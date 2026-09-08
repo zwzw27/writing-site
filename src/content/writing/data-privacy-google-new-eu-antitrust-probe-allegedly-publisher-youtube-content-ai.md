@@ -3,6 +3,7 @@ title: "Google faces new EU antitrust probe for allegedly using publisher, YouTu
 date: 2025-12-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-google-new-eu-antitrust-probe-allegedly-publisher-youtube-content-ai"
+type: "news"
 featured: false
 ---
 

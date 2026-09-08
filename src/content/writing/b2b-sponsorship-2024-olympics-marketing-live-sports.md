@@ -3,6 +3,7 @@ title: "Why are so many B2B firms sponsoring the Olympics?"
 date: 2024-03-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/b2b-sponsorship-2024-olympics-marketing-live-sports"
+type: "feature"
 featured: false
 ---
 

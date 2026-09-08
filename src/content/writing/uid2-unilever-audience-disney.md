@@ -3,6 +3,7 @@ title: "How UID2 helped Unilever find its audience across Disney 12 times more e
 date: 2023-02-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/uid2-unilever-audience-disney"
+type: "feature"
 featured: false
 ---
 

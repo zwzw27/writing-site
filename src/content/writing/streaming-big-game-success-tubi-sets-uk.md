@@ -3,6 +3,7 @@ title: "Riding on its Big Game success, Tubi sets its sights on the U.K."
 date: 2025-03-04
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-big-game-success-tubi-sets-uk"
+type: "analysis"
 featured: false
 ---
 

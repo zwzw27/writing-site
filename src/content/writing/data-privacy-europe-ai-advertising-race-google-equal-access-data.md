@@ -3,6 +3,7 @@ title: "Europe's plan to level the AI advertising race: get Google to provide eq
 date: 2026-01-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-europe-ai-advertising-race-google-equal-access-data"
+type: "analysis"
 featured: false
 ---
 

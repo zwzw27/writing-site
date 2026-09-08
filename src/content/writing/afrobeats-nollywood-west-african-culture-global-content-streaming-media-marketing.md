@@ -3,6 +3,7 @@ title: "From Afrobeats to Nollywood: West African cultural exports could be the 
 date: 2023-10-03
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/afrobeats-nollywood-west-african-culture-global-content-streaming-media-marketing"
+type: "analysis"
 featured: false
 ---
 

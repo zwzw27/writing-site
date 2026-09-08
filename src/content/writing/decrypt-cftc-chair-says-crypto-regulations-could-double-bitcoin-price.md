@@ -3,6 +3,7 @@ title: "CFTC Chair Says Crypto Regulations Could Double Bitcoin Price"
 date: 2022-09-29
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/110840/cftc-chair-says-crypto-regulations-could-double-bitcoin-price"
+type: "news"
 featured: false
 ---
 

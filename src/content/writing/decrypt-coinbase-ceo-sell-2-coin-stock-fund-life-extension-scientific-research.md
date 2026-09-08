@@ -3,6 +3,7 @@ title: "Coinbase CEO to Sell 2% of COIN Stock to Fund Life Extension, Scientific
 date: 2022-10-17
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/112120/coinbase-ceo-sell-2-coin-stock-fund-life-extension-scientific-research"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "In the shadow of Google’s antitrust trial, marketers debate the future
 date: 2024-09-16
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/google-antitrust-trial-marketers-future-open-web"
+type: "analysis"
 featured: false
 ---
 

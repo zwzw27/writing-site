@@ -3,6 +3,7 @@ title: "CTV and retail media push European digital ad spend past €100 billion,
 date: 2025-05-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/culture-retail-streaming-ctv-media-iab-european-digital-ad-spend-search"
+type: "analysis"
 featured: false
 ---
 

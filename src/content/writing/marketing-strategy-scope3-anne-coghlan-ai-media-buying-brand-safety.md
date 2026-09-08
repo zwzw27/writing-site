@@ -3,6 +3,7 @@ title: "Scope3’s Anne Coghlan on using AI to reimagine media buying and brand 
 date: 2025-03-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-scope3-anne-coghlan-ai-media-buying-brand-safety"
+type: "analysis"
 featured: false
 ---
 

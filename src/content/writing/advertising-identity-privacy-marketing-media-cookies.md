@@ -3,6 +3,7 @@ title: "The advertising industry may be at a tipping point in its adoption of al
 date: 2023-10-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/advertising-identity-privacy-marketing-media-cookies"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "U.K. competition regulator designates Google Search with ‘strategic ma
 date: 2025-10-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-uk-competition-regulator-strategic-market-status-google-search"
+type: "analysis"
 featured: false
 ---
 

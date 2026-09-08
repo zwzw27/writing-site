@@ -3,6 +3,7 @@ title: "Kraken Launches 70 Ethereum, Solana NFT Collections on New ‘Gasless’
 date: 2022-11-03
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/113462/kraken-launches-70-ethereum-solana-nfts-new-gasless-marketplace"
+type: "news"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "In the age of AI, marketers at Cannes Lions say to follow the consumer r
 date: 2023-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/ai-marketers-cannes-lions-consumer-advertising"
+type: "analysis"
 featured: false
 ---
 

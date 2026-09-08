@@ -3,6 +3,7 @@ title: "How U.S. upfront trends look different in the U.K."
 date: 2025-05-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-us-upfront-trends-different-uk"
+type: "feature"
 featured: false
 ---
 

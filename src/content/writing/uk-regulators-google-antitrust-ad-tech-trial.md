@@ -3,6 +3,7 @@ title: "U.K. regulators slam Google's ad tech practices, as U.S. trial gets unde
 date: 2024-09-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/uk-regulators-google-antitrust-ad-tech-trial"
+type: "analysis"
 featured: false
 ---
 

@@ -3,5 +3,44 @@ import Layout from '../../layouts/Layout.astro';
 import WritingList from '../../components/WritingList.astro';
 import { getWriting } from '../../lib/writing';
 const articles = await getWriting();
+const types = ['analysis', 'feature', 'news'] as const;
+const counts = Object.fromEntries(types.map(type => [type, articles.filter(article => article.data.type === type).length]));
 ---
-<Layout title="Writing" active="writing"><header class="page-heading"><p class="eyebrow">The archive</p><h1>Writing</h1><p class="lede">Essays, reporting, and observations. Most recent first.</p></header><section aria-label="All articles"><WritingList articles={articles} /></section></Layout>
+<Layout title="Writing" active="writing">
+  <header class="page-heading"><p class="eyebrow">The complete archive</p><h1>Writing</h1><p>{articles.length} pieces, newest first.</p></header>
+  <div class="filter-bar" data-filters>
+    <div class="filter-buttons" role="group" aria-label="Filter writing by type">
+      <button type="button" data-filter="all" aria-pressed="true">All <span>{articles.length}</span></button>
+      <button type="button" data-filter="analysis" aria-pressed="false">Analysis <span>{counts.analysis}</span></button>
+      <button type="button" data-filter="feature" aria-pressed="false">Features <span>{counts.feature}</span></button>
+      <button type="button" data-filter="news" aria-pressed="false">News <span>{counts.news}</span></button>
+    </div>
+    <p class="filter-status" aria-live="polite">Showing all {articles.length} pieces</p>
+  </div>
+  <section aria-label="All writing"><WritingList articles={articles} filterable /></section>
+  <script is:inline>
+    (() => {
+      const root = document.querySelector('[data-filters]');
+      if (!root) return;
+      const buttons = [...root.querySelectorAll('[data-filter]')];
+      const items = [...document.querySelectorAll('.writing-list.filterable > li')];
+      const status = root.querySelector('.filter-status');
+      const apply = (type) => {
+        let visible = 0;
+        items.forEach((item) => {
+          const show = type === 'all' || item.dataset.type === type;
+          item.hidden = !show;
+          if (show) visible += 1;
+        });
+        buttons.forEach((button) => button.setAttribute('aria-pressed', String(button.dataset.filter === type)));
+        status.textContent = type === 'all' ? `Showing all ${visible} pieces` : `Showing ${visible} ${type === 'feature' ? 'features' : type} pieces`;
+        const url = new URL(location.href);
+        type === 'all' ? url.searchParams.delete('type') : url.searchParams.set('type', type);
+        history.replaceState(null, '', url);
+      };
+      buttons.forEach((button) => button.addEventListener('click', () => apply(button.dataset.filter)));
+      const requested = new URL(location.href).searchParams.get('type');
+      if (buttons.some((button) => button.dataset.filter === requested)) apply(requested);
+    })();
+  </script>
+</Layout>

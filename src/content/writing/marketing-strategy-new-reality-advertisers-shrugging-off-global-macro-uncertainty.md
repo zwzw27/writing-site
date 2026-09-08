@@ -3,6 +3,7 @@ title: "The new reality: Why advertisers are shrugging off global macro uncertai
 date: 2026-04-16
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-new-reality-advertisers-shrugging-off-global-macro-uncertainty"
+type: "feature"
 featured: false
 ---
 

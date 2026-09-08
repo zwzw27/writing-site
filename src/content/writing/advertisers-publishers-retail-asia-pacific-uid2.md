@@ -3,6 +3,7 @@ title: "Advertisers, publishers and retailers across Asia-Pacific bet on UID2"
 date: 2024-06-25
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/advertisers-publishers-retail-asia-pacific-uid2"
+type: "feature"
 featured: false
 ---
 

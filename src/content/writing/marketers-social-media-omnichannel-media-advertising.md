@@ -3,6 +3,7 @@ title: "Are marketers spending too much on social media?"
 date: 2024-10-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketers-social-media-omnichannel-media-advertising"
+type: "feature"
 featured: false
 ---
 

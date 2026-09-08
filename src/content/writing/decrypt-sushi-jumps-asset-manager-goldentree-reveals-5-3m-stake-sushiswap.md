@@ -3,6 +3,7 @@ title: "SUSHI Jumps 14% After Asset Manager GoldenTree Reveals $5.3M Stake in Su
 date: 2022-10-06
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111365/sushi-jumps-asset-manager-goldentree-reveals-5-3m-stake-sushiswap"
+type: "news"
 featured: false
 ---
 

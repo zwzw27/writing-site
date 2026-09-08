@@ -3,6 +3,7 @@ title: "February Vote for MiCA Crypto Bill Is ‘Tentative’: European Union"
 date: 2022-11-07
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/113731/february-vote-mica-crypto-bill-is-tentative-european-union"
+type: "news"
 featured: false
 ---
 

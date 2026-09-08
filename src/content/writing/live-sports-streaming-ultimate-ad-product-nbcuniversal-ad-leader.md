@@ -3,6 +3,7 @@ title: "Live sports streaming is “the ultimate ad product,” says NBCUniversa
 date: 2025-03-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/live-sports-streaming-ultimate-ad-product-nbcuniversal-ad-leader"
+type: "analysis"
 featured: false
 ---
 

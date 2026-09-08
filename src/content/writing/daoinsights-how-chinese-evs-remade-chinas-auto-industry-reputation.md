@@ -3,6 +3,7 @@ title: "How Chinese EVs remade China's auto industry reputation"
 date: 2022-01-06
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/opinions/how-chinese-evs-remade-chinas-auto-industry-reputation/"
+type: "feature"
 featured: false
 ---
 

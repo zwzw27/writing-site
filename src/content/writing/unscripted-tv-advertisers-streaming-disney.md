@@ -3,6 +3,7 @@ title: "The rise of unscripted TV could be good for advertisers"
 date: 2024-02-08
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/unscripted-tv-advertisers-streaming-disney"
+type: "analysis"
 featured: false
 ---
 

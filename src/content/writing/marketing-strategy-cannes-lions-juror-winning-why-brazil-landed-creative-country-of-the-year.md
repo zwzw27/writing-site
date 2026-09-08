@@ -3,6 +3,7 @@ title: "A Cannes juror on what it takes to win a Lion and why Brazil landed Crea
 date: 2025-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/marketing-strategy-cannes-lions-juror-winning-why-brazil-landed-creative-country-of-the-year"
+type: "feature"
 featured: false
 ---
 

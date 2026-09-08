@@ -3,6 +3,7 @@ title: "Comcast’s Universal Ads launches in the UK, aiming to bring more SMB a
 date: 2026-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/comcast-universal-ads-launches-uk-aiming-to-bring-more-smb-ad-budgets-tv"
+type: "news"
 featured: false
 ---
 

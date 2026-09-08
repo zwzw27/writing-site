@@ -3,6 +3,7 @@ title: "You thought the pandemic was a whirlwind for advertisers. Welcome to 202
 date: 2024-01-03
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/pandemic-advertisers-2024-identity-cookies-generative-ai"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Investors Flee Gold and Bitcoin, Pushing Correlation to New 12-Month Hig
 date: 2022-10-04
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/111206/investors-flee-gold-bitcoin-pushing-correlation-12-month-high"
+type: "news"
 featured: false
 ---
 

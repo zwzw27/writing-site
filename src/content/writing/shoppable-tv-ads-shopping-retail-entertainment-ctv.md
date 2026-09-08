@@ -3,6 +3,7 @@ title: "This year, shoppable TV ads may deliver the goods that live shopping nev
 date: 2024-01-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/shoppable-tv-ads-shopping-retail-entertainment-ctv"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "AI could slash video ad production costs — just as TV opens more doors
 date: 2025-06-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/cannes-lions-marketing-strategy-slash-video-ad-production-costs-tv-small-businesses-ai"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "OMR 2025 takeaways: Marketers weigh in on AI automation, performance mar
 date: 2025-05-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/culture-omr-2025-takeaways-advertisers-ai-automation-performance-marketing-podcasts-netflix"
+type: "analysis"
 featured: false
 ---
 

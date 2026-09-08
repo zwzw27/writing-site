@@ -3,6 +3,7 @@ title: "Johnson & Johnson's EMEA media lead on how the consumer health giant is 
 date: 2023-06-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/johnson-johnson-media-consumer-marketing-andrew-jude-rajanathan"
+type: "feature"
 featured: false
 ---
 

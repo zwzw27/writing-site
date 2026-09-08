@@ -3,6 +3,7 @@ title: "Why Europe’s storied luxury brands are delving into programmatic"
 date: 2023-09-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/europe-brands-programmatic-marketing-advertising-luxury"
+type: "feature"
 featured: false
 ---
 

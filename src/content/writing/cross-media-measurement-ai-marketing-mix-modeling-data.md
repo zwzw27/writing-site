@@ -3,6 +3,7 @@ title: "The future of cross-media measurement takes shape with AI and industrywi
 date: 2024-12-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/cross-media-measurement-ai-marketing-mix-modeling-data"
+type: "analysis"
 featured: false
 ---
 

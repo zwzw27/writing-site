@@ -3,6 +3,7 @@ title: "How consumer health giant Reckitt is future-proofing its marketing effor
 date: 2024-03-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/health-nutrition-reckitt-omnichannel-marketing"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Meta will offer EU users option of less personalized ads, caving to EU p
 date: 2025-12-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/data-privacy-meta-users-option-less-personalized-ads-eu"
+type: "analysis"
 featured: false
 ---
 

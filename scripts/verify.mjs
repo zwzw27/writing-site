@@ -13,7 +13,9 @@ const pages = (await walk(root)).filter(f => f.endsWith('.html'));
 for (const page of pages) {
   const html = await readFile(page, 'utf8');
   assert(html.includes('lang="en"'), `Missing page language: ${page}`);
-  assert(!/<script\b/.test(html), `Unexpected browser JavaScript: ${page}`);
+  const scriptCount = (html.match(/<script\b/g) || []).length;
+  const isArchive = page === join(root, 'writing', 'index.html');
+  assert(scriptCount === (isArchive ? 1 : 0), `Unexpected browser JavaScript: ${page}`);
   for (const [, raw] of html.matchAll(/(?:href|src)="([^"#]+)"/g)) {
     if (/^(https?:|mailto:|tel:|data:)/.test(raw)) continue;
     const path = decodeURIComponent(raw.split(/[?#]/)[0]);
@@ -30,7 +32,7 @@ assert.equal([...selected.matchAll(/<li\b/g)].length, 5, 'Expected five selected
 const archive = await readFile(join(root, 'writing/index.html'), 'utf8');
 const dates = [...archive.matchAll(/datetime="([^"]+)"/g)].map(m => m[1]);
 assert.deepEqual(dates, [...dates].sort().reverse(), 'Archive must be newest first');
-assert.equal(pages.length, dates.length + 4, 'Every article needs its own page');
+assert.equal(pages.length, dates.length + 3, 'Every article needs its own page');
 
 const articleFiles = (await walk(contentRoot)).filter(f => f.endsWith('.md'));
 assert.equal(articleFiles.length, dates.length, 'Every source article must appear in the archive');
@@ -47,8 +49,10 @@ for (const file of articleFiles) {
   const [, frontmatter, body] = parsed;
   const title = frontmatter.match(/^title:\s*(.+)$/m)?.[1];
   const url = frontmatter.match(/^originalUrl:\s*(.+)$/m)?.[1];
+  const type = frontmatter.match(/^type:\s*"(analysis|feature|news)"$/m)?.[1];
   assert(title && !seenTitles.has(title), `Missing or duplicate title: ${file}`);
   assert(url && !seenUrls.has(url), `Missing or duplicate original URL: ${file}`);
+  assert(type, `Missing or invalid writing type: ${file}`);
   seenTitles.add(title);
   seenUrls.add(url);
   const bodyHash = createHash('sha256').update(body.trim()).digest('hex');
@@ -59,4 +63,4 @@ for (const file of articleFiles) {
   assert(!privateData.test(source), `Private data or credential marker found: ${file}`);
   assert(!email.test(source), `Email address found in article: ${file}`);
 }
-console.log(`Verified ${pages.length} pages and ${articleFiles.length} unique articles: local links, repository prefix, selected count, archive order, content hygiene, and no browser JavaScript.`);
+console.log(`Verified ${pages.length} pages and ${articleFiles.length} unique articles: local links, repository prefix, selected count, archive order, content hygiene, and one archive filter script.`);

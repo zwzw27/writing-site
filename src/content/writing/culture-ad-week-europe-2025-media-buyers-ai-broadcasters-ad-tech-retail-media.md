@@ -3,6 +3,7 @@ title: "Ad Week Europe: Media buyers face AI disruption, broadcasters embrace ad
 date: 2025-04-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/culture-ad-week-europe-2025-media-buyers-ai-broadcasters-ad-tech-retail-media"
+type: "analysis"
 featured: false
 ---
 

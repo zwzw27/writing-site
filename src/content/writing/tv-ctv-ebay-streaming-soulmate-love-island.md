@@ -3,6 +3,7 @@ title: "How eBay found its soulmate in ‘Love Island’"
 date: 2023-02-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/tv-ctv-ebay-streaming-soulmate-love-island"
+type: "feature"
 featured: false
 ---
 

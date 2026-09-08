@@ -3,6 +3,7 @@ title: "European retailers race to stake their claim on the continent’s media 
 date: 2023-02-22
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/european-retailers-race-retail-media"
+type: "feature"
 featured: false
 ---
 

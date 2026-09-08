@@ -3,6 +3,7 @@ title: "The three hottest advertising trends from OMR, Germany’s festival of m
 date: 2023-05-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/advertising-trends-omr-marketing"
+type: "analysis"
 featured: false
 ---
 

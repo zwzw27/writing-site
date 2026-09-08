@@ -3,6 +3,7 @@ title: "British advertisers and broadcasters lay out their CTV playbook: first-p
 date: 2023-09-18
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/british-advertiser-broadcasters-ctv-data-linear"
+type: "feature"
 featured: false
 ---
 

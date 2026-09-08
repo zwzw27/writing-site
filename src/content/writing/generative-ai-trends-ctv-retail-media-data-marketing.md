@@ -3,6 +3,7 @@ title: "Here’s what you missed if you were only paying attention to Generative
 date: 2023-12-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/generative-ai-trends-ctv-retail-media-data-marketing"
+type: "feature"
 featured: false
 ---
 

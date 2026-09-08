@@ -3,6 +3,7 @@ title: "What makes a streaming hit for advertisers?"
 date: 2023-03-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/streaming-hit-advertisers-ctv"
+type: "analysis"
 featured: false
 ---
 

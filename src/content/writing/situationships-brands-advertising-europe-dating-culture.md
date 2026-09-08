@@ -3,6 +3,7 @@ title: "Situationships and solitude: How brands are advertising for Europe’s c
 date: 2023-01-30
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/situationships-brands-advertising-europe-dating-culture"
+type: "feature"
 featured: false
 ---
 

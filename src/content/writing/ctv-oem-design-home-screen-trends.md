@@ -3,6 +3,7 @@ title: "TV manufacturers wrestle with designing TV home screens for â€œpeak TVâ€
 date: 2022-12-07
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/articles/ctv-oem-design-home-screen-trends"
+type: "analysis"
 featured: false
 ---
 

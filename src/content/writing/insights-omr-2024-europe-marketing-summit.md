@@ -3,6 +3,7 @@ title: "3 big insights from OMR 2024, Europe’s top marketing summit"
 date: 2024-05-14
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/insights-omr-2024-europe-marketing-summit"
+type: "analysis"
 featured: false
 ---
 

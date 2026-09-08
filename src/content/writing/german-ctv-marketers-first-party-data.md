@@ -3,6 +3,7 @@ title: "German CTV marketers are seeing serious results with first-party data"
 date: 2024-07-02
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/german-ctv-marketers-first-party-data"
+type: "analysis"
 featured: false
 ---
 

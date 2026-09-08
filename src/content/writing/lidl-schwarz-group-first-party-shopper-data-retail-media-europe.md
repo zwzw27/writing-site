@@ -3,6 +3,7 @@ title: "Lidl-owner Schwarz Group opens access to its shopper data, heating up th
 date: 2023-07-21
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/lidl-schwarz-group-first-party-shopper-data-retail-media-europe"
+type: "analysis"
 featured: false
 ---
 

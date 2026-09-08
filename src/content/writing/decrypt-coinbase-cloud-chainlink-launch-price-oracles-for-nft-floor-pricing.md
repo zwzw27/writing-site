@@ -3,6 +3,7 @@ title: "Coinbase Cloud, Chainlink Launch Price Oracles for NFT Floor Pricing"
 date: 2022-09-28
 publication: "Decrypt"
 originalUrl: "https://decrypt.co/110749/coinbase-cloud-chainlink-launch-price-oracles-for-nft-floor-pricing"
+type: "news"
 featured: false
 ---
 

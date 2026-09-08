@@ -3,6 +3,7 @@ title: "New Stagwell survey: EMEA executives want to advertise alongside news, b
 date: 2025-03-27
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/stagwell-survey-emea-advertise-news-media-buyers"
+type: "analysis"
 featured: false
 ---
 

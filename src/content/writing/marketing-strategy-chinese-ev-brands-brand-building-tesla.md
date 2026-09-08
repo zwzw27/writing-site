@@ -3,6 +3,7 @@ title: "Chinese EV brands are getting serious about brand-building"
 date: 2026-05-13
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/marketing-strategy-chinese-ev-brands-brand-building-tesla"
+type: "feature"
 featured: false
 ---
 

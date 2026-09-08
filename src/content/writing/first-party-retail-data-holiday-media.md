@@ -3,6 +3,7 @@ title: "First-party and retail data will be tested this holiday season as cookie
 date: 2023-11-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/first-party-retail-data-holiday-media"
+type: "analysis"
 featured: false
 ---
 

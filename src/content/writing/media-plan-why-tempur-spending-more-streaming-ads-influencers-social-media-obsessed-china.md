@@ -3,6 +3,7 @@ title: "The Media Plan: Why TEMPUR is spending more on streaming ads than influe
 date: 2026-07-09
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/media-plan-why-tempur-spending-more-streaming-ads-influencers-social-media-obsessed-china"
+type: "feature"
 featured: true
 ---
 

@@ -3,6 +3,7 @@ title: "WBD’s Max wants to be a ‘top 3 streamer’ globally, fueled by live 
 date: 2025-03-03
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/wbd-max-streamer-fueled-live-sports-growth-emea"
+type: "analysis"
 featured: false
 ---
 

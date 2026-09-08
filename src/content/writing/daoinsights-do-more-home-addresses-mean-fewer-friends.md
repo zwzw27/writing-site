@@ -3,6 +3,7 @@ title: "Do more home addresses mean fewer friends?"
 date: 2022-01-04
 publication: "Dao Insights"
 originalUrl: "https://daoinsights.com/works/do-more-home-addresses-mean-fewer-friends/"
+type: "feature"
 featured: false
 ---
 

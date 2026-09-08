@@ -3,6 +3,7 @@ title: "Comcast Advertising’s Thomas Bremond on bringing an ‘easy button’ 
 date: 2025-06-19
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/opinion/opinion-comcast-freewheel-advertisings-thomas-bremond-buying-tv-uk"
+type: "analysis"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Cindy Rose says WPP agencies stopped using LiveRamp to retain ‘total i
 date: 2026-06-23
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/cindy-rose-says-wpp-agencies-stopped-using-liveramp-to-retain-total-independence-cannes-lions"
+type: "analysis"
 featured: false
 ---
 

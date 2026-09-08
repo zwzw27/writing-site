@@ -3,6 +3,7 @@ title: "Streaming wars, episode III: ‘Lost in Translation’"
 date: 2023-01-17
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-wars-episode-iii-lost-in-translation"
+type: "feature"
 featured: false
 ---
 

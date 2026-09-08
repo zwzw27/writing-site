@@ -3,6 +3,7 @@ title: "The little 5G devices powering India’s streaming revolution"
 date: 2024-05-31
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-5g-india-news-ctv"
+type: "feature"
 featured: false
 ---
 

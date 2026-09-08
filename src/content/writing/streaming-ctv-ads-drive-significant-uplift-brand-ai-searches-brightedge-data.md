@@ -3,6 +3,7 @@ title: "CTV ads drive significant uplift in brand AI searches, BrightEdge data s
 date: 2026-05-11
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/streaming-ctv-ads-drive-significant-uplift-brand-ai-searches-brightedge-data"
+type: "news"
 featured: false
 ---
 

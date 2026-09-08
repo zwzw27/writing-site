@@ -3,6 +3,7 @@ title: "Retail data has taken over Europe. Now what?"
 date: 2024-03-06
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/retail-data-europe-ctv-media"
+type: "feature"
 featured: false
 ---
 

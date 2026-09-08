@@ -3,6 +3,7 @@ title: "AI is ‘necessary, but not sufficient’: Experts say agencies need a s
 date: 2026-01-20
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/marketing-strategy-ai-necessary-not-sufficient-experts-agencies-strategy"
+type: "analysis"
 featured: false
 ---
 

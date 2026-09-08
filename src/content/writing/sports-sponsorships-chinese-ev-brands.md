@@ -3,6 +3,7 @@ title: "Sports sponsorships are just the start for Chinese EV brands"
 date: 2024-07-29
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/sports-sponsorships-chinese-ev-brands"
+type: "feature"
 featured: false
 ---
 

@@ -3,6 +3,7 @@ title: "Consolidated streamers now need to prove their value to advertisers"
 date: 2026-08-12
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/media/consolidated-streamers-now-need-prove-their-value-advertisers-ctv"
+type: "analysis"
 featured: true
 ---
 

@@ -3,6 +3,7 @@ title: "British advertisers face short-term pain after Britain’s $50 billion t
 date: 2024-11-05
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/marketing/uk-fiscal-budget-results"
+type: "analysis"
 featured: false
 ---
 

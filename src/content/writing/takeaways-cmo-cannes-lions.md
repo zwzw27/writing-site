@@ -3,6 +3,7 @@ title: "Four takeaways from top CMOs at Cannes Lions"
 date: 2024-06-24
 publication: "The Current"
 originalUrl: "https://www.thecurrent.com/innovation/takeaways-cmo-cannes-lions"
+type: "feature"
 featured: false
 ---
 
