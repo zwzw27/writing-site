@@ -1,0 +1,7 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import WritingList from '../../components/WritingList.astro';
+import { getWriting } from '../../lib/writing';
+const articles = await getWriting();
+---
+<Layout title="Writing" active="writing"><header class="page-heading"><p class="eyebrow">The archive</p><h1>Writing</h1><p class="lede">Essays, reporting, and observations. Most recent first.</p></header><section aria-label="All articles"><WritingList articles={articles} /></section></Layout>

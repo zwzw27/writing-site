@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+
+# Keep local credentials, private working files, and backups out of this public repo.
+.env
+.env.*
+!.env.example
+.credentials/
+private/
+work/
+*.pem
+*.key
+*.bundle
+*.xlsx
+*.xls

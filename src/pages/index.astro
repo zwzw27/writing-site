@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import WritingList from '../components/WritingList.astro';
+import { getWriting, href } from '../lib/writing';
+import { site } from '../site';
+const articles = await getWriting();
+---
+<Layout active="home">
+  <section class="intro"><p class="eyebrow">Essays, reporting & observations</p><h1>A closer look<br />at everyday life.</h1><p class="lede">{site.intro}</p><a class="text-link" href={href('about/')}>More about me <span aria-hidden="true">↗</span></a></section>
+  <section aria-labelledby="selected-heading"><div class="section-heading"><h2 id="selected-heading">Selected Writing</h2><span class="eyebrow">Five pieces to begin with</span></div><WritingList articles={articles.filter(a => a.data.featured)} selected /></section>
+  <section class="other-writing" aria-labelledby="other-heading"><div class="section-heading"><h2 id="other-heading">Other Writing</h2><a class="text-link" href={href('writing/')}>Full archive <span aria-hidden="true">↗</span></a></div><WritingList articles={articles.filter(a => !a.data.featured)} /></section>
+</Layout>
