@@ -2,8 +2,7 @@ name: Deploy to GitHub Pages
 env:
   ASTRO_TELEMETRY_DISABLED: '1'
 on:
-  push:
-    branches: [main]
+  # Manual-only prevents edits from publishing the site unexpectedly.
   workflow_dispatch:
 permissions:
   contents: read

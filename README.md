@@ -70,7 +70,7 @@ The simplest approach is entirely on GitHub:
 1. Open `src/content/writing` in your repository.
 2. Choose **Add file → Create new file** and name it `your-article-title.md`. Use unique lowercase filenames with hyphens; the filename determines the permanent article URL.
 3. Paste the frontmatter below, then the **full article text**.
-4. Commit to `main`. GitHub Actions rebuilds and publishes automatically.
+4. Commit to `main`. When you want the change live, open **Actions → Deploy to GitHub Pages → Run workflow**.
 
 ```yaml
 ---
