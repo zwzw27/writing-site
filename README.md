@@ -6,7 +6,7 @@ A static Astro portfolio hosted only on GitHub Pages. Markdown lives in this rep
 
 - Edit `src/site.ts` for your name, introduction, description, and biography.
 - Edit the headline in `src/pages/index.astro` if desired.
-- Replace the seven clearly labelled sample essays in `src/content/writing/` with your full articles. They are demonstration text, not your published work.
+- `src/content/writing/` holds the full text of every article, imported from the author's contributor page at The Current. Each file links back to the original via `originalUrl`.
 - Keep **exactly five** articles marked `featured: true`. The build gives a readable error if the count differs or an article body is empty. Selected pieces are ordered newest first; they do not repeat under Other Writing. The archive includes everything.
 - Add real contact/CV links in `src/pages/about.astro` whenever ready.
 
