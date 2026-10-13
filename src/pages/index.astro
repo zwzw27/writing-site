@@ -6,6 +6,6 @@ import { site } from '../site';
 const articles = await getWriting();
 ---
 <Layout active="home">
-  <section class="intro"><p class="eyebrow">{site.role}</p><h1>Editorial strategy,<br />shaped by reporting.</h1><p class="lede">{site.intro}</p><a class="text-link" href={site.linkedin}>Connect on LinkedIn <span aria-hidden="true">↗</span></a></section>
+  <section class="intro"><h1 class="visually-hidden">{site.name}</h1><p class="lede">{site.intro}</p><a class="text-link" href={site.linkedin}>Connect on LinkedIn <span aria-hidden="true">↗</span></a></section>
   <section class="selected-section" aria-labelledby="selected-heading"><div class="section-heading"><h2 id="selected-heading">Selected Writing</h2><a class="text-link" href={href('writing/')}>View all writing <span aria-hidden="true">→</span></a></div><WritingList articles={articles.filter(a => a.data.featured)} selected /></section>
 </Layout>
