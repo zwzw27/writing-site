@@ -18,7 +18,7 @@ const counts = Object.fromEntries(types.map(type => [type, articles.filter(artic
     <p class="filter-status" aria-live="polite">Showing all {articles.length} pieces</p>
   </div>
   <section aria-label="All writing"><WritingList articles={articles} filterable /></section>
-  <script is:inline>
+  <script>
     (() => {
       const root = document.querySelector('[data-filters]');
       if (!root) return;

@@ -2,6 +2,7 @@ import { readdir, readFile, access } from 'node:fs/promises';
 import { resolve, join } from 'node:path';
 import { createHash } from 'node:crypto';
 import assert from 'node:assert/strict';
+import { assertSafeHtml } from './html-security.mjs';
 const root = resolve('dist');
 const contentRoot = resolve('src/content/writing');
 const base = process.env.PAGES_URL ? new URL(process.env.PAGES_URL).pathname.replace(/\/$/, '') : '';
@@ -12,8 +13,9 @@ async function walk(dir) {
 const pages = (await walk(root)).filter(f => f.endsWith('.html'));
 for (const page of pages) {
   const html = await readFile(page, 'utf8');
+  assertSafeHtml(html, page);
   assert(html.includes('lang="en"'), `Missing page language: ${page}`);
-  const scriptCount = (html.match(/<script\b/g) || []).length;
+  const scriptCount = (html.match(/<script\b/gi) || []).length;
   const isArchive = page === join(root, 'writing', 'index.html');
   assert(scriptCount === (isArchive ? 1 : 0), `Unexpected browser JavaScript: ${page}`);
   for (const [, raw] of html.matchAll(/(?:href|src)="([^"#]+)"/g)) {

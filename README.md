@@ -1,11 +1,10 @@
 # Writing portfolio
 
-A static Astro portfolio hosted only on GitHub Pages. Markdown lives in this repository. There is no database, CMS, external font, or outside hosting service. A small inline script powers the archive filters. Astro is the only direct dependency; the lockfile keeps installations reproducible.
+A static Astro portfolio hosted only on GitHub Pages. Markdown lives in this repository. There is no database, CMS, external font, or outside hosting service. A small browser script powers the archive filters. Astro is the only direct dependency; the lockfile keeps installations reproducible.
 
 ## Site details
 
-- Edit `src/site.ts` for your name, role, introduction, and LinkedIn URL.
-- Edit the headline in `src/pages/index.astro` if desired.
+- Edit `src/site.ts` for your name, introduction, and LinkedIn URL.
 - `src/content/writing/` holds the full text of every archived article. Each file links back to the original via `originalUrl`.
 - Keep **exactly five** articles marked `featured: true`. The build gives a readable error if the count differs or an article body is empty. Selected pieces are ordered newest first. The archive includes everything.
 - Each article has a `type` of `analysis`, `feature`, or `news`; this powers the archive filters.

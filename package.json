@@ -7,7 +7,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "verify": "node scripts/verify.mjs"
+    "verify": "node scripts/html-security.test.mjs && node scripts/verify.mjs"
   },
   "dependencies": {
     "astro": "7.3.1"
